@@ -145,10 +145,10 @@ ElfBufferDefenseConstB = 3
 ;==================================================
 ; Experience Settings
 ;==================================================
-AddExperienceRate_AL0 = 10
-AddExperienceRate_AL1 = 100
-AddExperienceRate_AL2 = 100
-AddExperienceRate_AL3 = 100
+AddExperienceRate_AL0 = 3500
+AddExperienceRate_AL1 = 3500
+AddExperienceRate_AL2 = 3500
+AddExperienceRate_AL3 = 3500
 AddMasterExperienceRate_AL0 = 400
 AddMasterExperienceRate_AL1 = 10
 AddMasterExperienceRate_AL2 = 10
@@ -182,11 +182,11 @@ ItemDropRate_AL3 = 40
 ;==================================================
 ; Money Drop Settings
 ;==================================================
-MoneyDropTime = 300
-MoneyAmountDropRate_AL0 = 500000
-MoneyAmountDropRate_AL1 = 500000
-MoneyAmountDropRate_AL2 = 500000
-MoneyAmountDropRate_AL3 = 500000
+MoneyDropTime = 30
+MoneyAmountDropRate_AL0 = 2000
+MoneyAmountDropRate_AL1 = 2000
+MoneyAmountDropRate_AL2 = 2000
+MoneyAmountDropRate_AL3 = 2000
 
 ;==================================================
 ; Item Durability Settings
@@ -410,9 +410,9 @@ ScoreBoardSwitch = 1
 PartyReconnectTime = 300
 PartyGeneralExperience1 = 100
 PartyGeneralExperience2 = 80
-PartyGeneralExperience3 = 60
-PartyGeneralExperience4 = 50
-PartyGeneralExperience5 = 45
+PartyGeneralExperience3 = 75
+PartyGeneralExperience4 = 65
+PartyGeneralExperience5 = 60
 PartySpecialExperience1 = 100
 PartySpecialExperience2 = 80
 PartySpecialExperience3 = 75
@@ -456,18 +456,18 @@ TransformationRing6 = 41
 ;==================================================
 ; Jewel Settings
 ;==================================================
-SoulSuccessRate_AL0 = 50
-SoulSuccessRate_AL1 = 50
-SoulSuccessRate_AL2 = 50
-SoulSuccessRate_AL3 = 50
-LifeSuccessRate_AL0 = 50
-LifeSuccessRate_AL1 = 50
-LifeSuccessRate_AL2 = 50
-LifeSuccessRate_AL3 = 50
-HarmonySuccessRate_AL0 = 50
-HarmonySuccessRate_AL1 = 50
-HarmonySuccessRate_AL2 = 50
-HarmonySuccessRate_AL3 = 50
+SoulSuccessRate_AL0 = 70
+SoulSuccessRate_AL1 = 70
+SoulSuccessRate_AL2 = 70
+SoulSuccessRate_AL3 = 70
+LifeSuccessRate_AL0 = 80
+LifeSuccessRate_AL1 = 80
+LifeSuccessRate_AL2 = 80
+LifeSuccessRate_AL3 = 80
+HarmonySuccessRate_AL0 = 70
+HarmonySuccessRate_AL1 = 70
+HarmonySuccessRate_AL2 = 70
+HarmonySuccessRate_AL3 = 70
 SmeltStoneSuccessRate1_AL0 = 50
 SmeltStoneSuccessRate1_AL1 = 50
 SmeltStoneSuccessRate1_AL2 = 50
@@ -476,14 +476,14 @@ SmeltStoneSuccessRate2_AL0 = 70
 SmeltStoneSuccessRate2_AL1 = 70
 SmeltStoneSuccessRate2_AL2 = 70
 SmeltStoneSuccessRate2_AL3 = 70
-AddLuckSuccessRate1_AL0 = 25
-AddLuckSuccessRate1_AL1 = 25
-AddLuckSuccessRate1_AL2 = 25
-AddLuckSuccessRate1_AL3 = 25
-AddLuckSuccessRate2_AL0 = 20
-AddLuckSuccessRate2_AL1 = 20
-AddLuckSuccessRate2_AL2 = 20
-AddLuckSuccessRate2_AL3 = 20
+AddLuckSuccessRate1_AL0 = 15
+AddLuckSuccessRate1_AL1 = 15
+AddLuckSuccessRate1_AL2 = 15
+AddLuckSuccessRate1_AL3 = 15
+AddLuckSuccessRate2_AL0 = 10
+AddLuckSuccessRate2_AL1 = 10
+AddLuckSuccessRate2_AL2 = 10
+AddLuckSuccessRate2_AL3 = 10
 
 ;==================================================
 ; Fruit Settings
