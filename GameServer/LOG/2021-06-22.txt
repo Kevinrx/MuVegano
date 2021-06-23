@@ -1,0 +1,530 @@
+22:59:07 [ServerInfo] CashShop loaded successfully
+22:59:07 [ServerInfo] ChaosMix loaded successfully
+22:59:07 [ServerInfo] Character loaded successfully
+22:59:07 [ServerInfo] Command loaded successfully
+22:59:07 [AntiDDoS] Status: 0
+22:59:07 [Language] Load English.xml language definition
+22:59:07 [ServerInfo] Common loaded successfully
+22:59:07 [ServerInfo] Event loaded successfully
+22:59:08 [ServerInfo] EventItemBag loaded successfully
+22:59:08 [ServerInfo] Hack loaded successfully
+22:59:08 [ServerInfo] Item loaded successfully
+22:59:08 [FereaBossZone][SummonMonster] MonsterIndex: 735/Ferea Cryst, Map: 112, X: 24, Y: 123 
+22:59:08 FEREA BOSS ZONE:Ferea Start
+22:59:08 [FereaBossZone][CrystalBallRegen] Create
+22:59:08 [NixiesBoss][SummonMonster] MonsterIndex: 746/Nix, Map: 113, X: 30, Y: 218, Attr : 2 
+22:59:08 [NixiesBoss][Regen] Regen Boss Nix. [1], Attr:[2]
+22:59:08 [ServerInfo] Monster loaded successfully
+22:59:08 [ServerInfo] Custom loaded successfully
+22:59:08 TEST A 
+22:59:08 [ServerInfo] Move loaded successfully
+22:59:08 [ServerInfo] Quest loaded successfully
+22:59:08 [ServerInfo] Shop loaded successfully
+22:59:08 [ServerInfo] Skill loaded successfully
+22:59:08 [ServerInfo] Util loaded successfully
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:457 - Type:2 - MonsterClass:8 - Map:1 - Dis:30 - X:50 - Y:123 - Dir :1 - TX:0 - TY:0 - Element:0
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:1988 - Type:2 - MonsterClass:40 - Map:4 - Dis:30 - X:26 - Y:6 - Dir :3 - TX:0 - TY:0 - Element:0
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:2219 - Type:2 - MonsterClass:51 - Map:7 - Dis:30 - X:252 - Y:48 - Dir :7 - TX:0 - TY:0 - Element:0
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:2250 - Type:2 - MonsterClass:51 - Map:7 - Dis:30 - X:9 - Y:51 - Dir :1 - TX:0 - TY:0 - Element:0
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:2691 - Type:2 - MonsterClass:148 - Map:24 - Dis:30 - X:67 - Y:6 - Dir :4 - TX:0 - TY:0 - Element:0
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:2758 - Type:2 - MonsterClass:178 - Map:25 - Dis:30 - X:90 - Y:3 - Dir :0 - TX:0 - TY:0 - Element:0
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:2874 - Type:2 - MonsterClass:193 - Map:27 - Dis:30 - X:60 - Y:6 - Dir :4 - TX:0 - TY:0 - Element:0
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:3007 - Type:2 - MonsterClass:272 - Map:29 - Dis:30 - X:89 - Y:3 - Dir :6 - TX:0 - TY:0 - Element:0
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:3071 - Type:2 - MonsterClass:305 - Map:33 - Dis:30 - X:80 - Y:122 - Dir :4 - TX:0 - TY:0 - Element:0
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:3118 - Type:2 - MonsterClass:306 - Map:33 - Dis:30 - X:183 - Y:86 - Dir :0 - TX:0 - TY:0 - Element:0
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:4121 - Type:2 - MonsterClass:557 - Map:56 - Dis:30 - X:120 - Y:21 - Dir :4 - TX:0 - TY:0 - Element:0
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:5507 - Type:1 - MonsterClass:689 - Map:100 - Dis:0 - X:137 - Y:132 - Dir :2 - TX:138 - TY:133 - Element:0
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8271 - Type:1 - MonsterClass:787 - Map:122 - Dis:8 - X:214 - Y:239 - Dir :1 - TX:214 - TY:239 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8272 - Type:1 - MonsterClass:787 - Map:122 - Dis:8 - X:214 - Y:239 - Dir :0 - TX:214 - TY:239 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8273 - Type:1 - MonsterClass:787 - Map:122 - Dis:8 - X:214 - Y:239 - Dir :0 - TX:214 - TY:239 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8370 - Type:1 - MonsterClass:788 - Map:122 - Dis:8 - X:202 - Y:203 - Dir :0 - TX:202 - TY:203 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8371 - Type:1 - MonsterClass:788 - Map:122 - Dis:8 - X:202 - Y:203 - Dir :0 - TX:202 - TY:203 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8372 - Type:1 - MonsterClass:788 - Map:122 - Dis:8 - X:202 - Y:203 - Dir :6 - TX:202 - TY:203 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8373 - Type:1 - MonsterClass:788 - Map:122 - Dis:8 - X:202 - Y:203 - Dir :2 - TX:202 - TY:203 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8449 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:162 - Y:185 - Dir :2 - TX:162 - TY:185 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8450 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:162 - Y:185 - Dir :4 - TX:162 - TY:185 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8451 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:162 - Y:185 - Dir :3 - TX:162 - TY:185 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8452 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:162 - Y:185 - Dir :6 - TX:162 - TY:185 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8463 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :1 - TX:185 - TY:66 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8464 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :3 - TX:185 - TY:66 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8465 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :7 - TX:185 - TY:66 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8466 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :4 - TX:185 - TY:66 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8467 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :6 - TX:185 - TY:66 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8468 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :5 - TX:185 - TY:66 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8469 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :5 - TX:185 - TY:66 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8470 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :6 - TX:185 - TY:66 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8526 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:88 - Y:194 - Dir :7 - TX:0 - TY:0 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8527 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:87 - Y:193 - Dir :4 - TX:0 - TY:0 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8543 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:117 - Y:243 - Dir :7 - TX:0 - TY:0 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8544 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:112 - Y:242 - Dir :1 - TX:0 - TY:0 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8549 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:41 - Y:210 - Dir :1 - TX:0 - TY:0 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8550 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:35 - Y:213 - Dir :6 - TX:0 - TY:0 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8553 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:23 - Y:172 - Dir :5 - TX:0 - TY:0 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8555 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:33 - Y:174 - Dir :0 - TX:0 - TY:0 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8559 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:56 - Y:185 - Dir :6 - TX:0 - TY:0 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8560 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:64 - Y:181 - Dir :4 - TX:0 - TY:0 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8575 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:184 - Y:178 - Dir :7 - TX:0 - TY:0 - Element:4
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8585 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:187 - Y:208 - Dir :1 - TX:0 - TY:0 - Element:4
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8595 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:174 - Y:228 - Dir :2 - TX:0 - TY:0 - Element:4
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8596 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:171 - Y:228 - Dir :4 - TX:0 - TY:0 - Element:4
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8601 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:162 - Y:211 - Dir :5 - TX:0 - TY:0 - Element:4
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8604 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:144 - Y:214 - Dir :0 - TX:0 - TY:0 - Element:4
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8605 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:135 - Y:215 - Dir :3 - TX:0 - TY:0 - Element:4
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8606 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:138 - Y:213 - Dir :5 - TX:0 - TY:0 - Element:4
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8607 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:133 - Y:215 - Dir :7 - TX:0 - TY:0 - Element:4
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8620 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:239 - Y:169 - Dir :2 - TX:0 - TY:0 - Element:2
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8634 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:197 - Y:61 - Dir :0 - TX:0 - TY:0 - Element:2
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8642 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:166 - Y:59 - Dir :2 - TX:0 - TY:0 - Element:5
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8643 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:165 - Y:58 - Dir :2 - TX:0 - TY:0 - Element:5
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8645 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:157 - Y:75 - Dir :1 - TX:0 - TY:0 - Element:5
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8646 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:149 - Y:82 - Dir :1 - TX:0 - TY:0 - Element:5
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8657 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:92 - Y:25 - Dir :1 - TX:0 - TY:0 - Element:5
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8658 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:88 - Y:26 - Dir :6 - TX:0 - TY:0 - Element:5
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8668 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:31 - Y:88 - Dir :6 - TX:0 - TY:0 - Element:3
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8674 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:88 - Y:86 - Dir :3 - TX:0 - TY:0 - Element:3
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8675 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:90 - Y:86 - Dir :6 - TX:0 - TY:0 - Element:3
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8679 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:110 - Y:95 - Dir :5 - TX:0 - TY:0 - Element:3
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8680 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:112 - Y:93 - Dir :3 - TX:0 - TY:0 - Element:3
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8686 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:160 - Y:184 - Dir :3 - TX:0 - TY:0 - Element:4
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8690 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:251 - Y:72 - Dir :7 - TX:0 - TY:0 - Element:2
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8703 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:186 - Y:118 - Dir :4 - TX:0 - TY:0 - Element:2
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8705 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:169 - Y:78 - Dir :6 - TX:0 - TY:0 - Element:2
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8708 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:148 - Y:82 - Dir :3 - TX:0 - TY:0 - Element:5
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8711 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:129 - Y:80 - Dir :5 - TX:0 - TY:0 - Element:5
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8734 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:36 - Y:52 - Dir :3 - TX:0 - TY:0 - Element:3
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8735 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:38 - Y:49 - Dir :1 - TX:0 - TY:0 - Element:3
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:8827 - Type:2 - MonsterClass:811 - Map:123 - Dis:6 - X:165 - Y:24 - Dir :5 - TX:0 - TY:0 - Element:1
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:9186 - Type:2 - MonsterClass:816 - Map:127 - Dis:6 - X:117 - Y:96 - Dir :0 - TX:0 - TY:0 - Element:5
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:9280 - Type:2 - MonsterClass:832 - Map:128 - Dis:4 - X:90 - Y:71 - Dir :6 - TX:0 - TY:0 - Element:5
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:9332 - Type:2 - MonsterClass:832 - Map:128 - Dis:4 - X:159 - Y:24 - Dir :3 - TX:0 - TY:0 - Element:2
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:10873 - Type:2 - MonsterClass:859 - Map:132 - Dis:10 - X:204 - Y:218 - Dir :1 - TX:0 - TY:0 - Element:4
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:10917 - Type:2 - MonsterClass:0 - Map:132 - Dis:0 - X:2 - Y:-3 - Dir :0 - TX:0 - TY:0 - Element:0
+22:59:08 [gObjSetPosMonster][GetPosition] Location Error number:11018 - Type:2 - MonsterClass:861 - Map:132 - Dis:10 - X:66 - Y:3 - Dir :1 - TX:0 - TY:0 - Element:1
+22:59:08 [Blood Castle] (1) SetState BLANK
+22:59:08 [Blood Castle] (2) SetState BLANK
+22:59:08 [Blood Castle] (3) SetState BLANK
+22:59:08 [Blood Castle] (4) SetState BLANK
+22:59:08 [Blood Castle] (5) SetState BLANK
+22:59:08 [Blood Castle] (6) SetState BLANK
+22:59:08 [Blood Castle] (7) SetState BLANK
+22:59:08 [Blood Castle] (8) SetState BLANK
+22:59:08 [Castle Deep] SetState BLANK
+22:59:08 [Chaos Castle] (1) SetState BLANK
+22:59:08 [Chaos Castle] (2) SetState BLANK
+22:59:08 [Chaos Castle] (3) SetState BLANK
+22:59:08 [Chaos Castle] (4) SetState BLANK
+22:59:08 [Chaos Castle] (5) SetState BLANK
+22:59:08 [Chaos Castle] (6) SetState BLANK
+22:59:08 [Chaos Castle] (7) SetState BLANK
+22:59:08 [Chaos Castle Survival] SetState BLANK
+22:59:08 [Devil Square] (1) SetState BLANK
+22:59:08 [Devil Square] (2) SetState BLANK
+22:59:08 [Devil Square] (3) SetState BLANK
+22:59:08 [Devil Square] (4) SetState BLANK
+22:59:08 [Devil Square] (5) SetState BLANK
+22:59:08 [Devil Square] (6) SetState BLANK
+22:59:08 [Devil Square] (7) SetState BLANK
+22:59:08 [AcheronGuardian] Sync Start Time. [216] min remain
+22:59:08 [ RAKLION ] State(0) -> END
+22:59:08 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+22:59:08 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+22:59:08 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+22:59:10 [Connection] connect() failed with error: 10061
+22:59:12 [Connection] connect() failed with error: 10061
+22:59:13 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+22:59:13 [ KANTURU ] State(0) -> STANDBY
+22:59:13 [ KANTURU ][ BattleStanby ] State(0) -> START
+22:59:13 [ RAKLION ] State(10) -> IDLE
+22:59:22 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:0][MissionInx0:2]
+22:59:22 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx0:0]
+22:59:22 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx1:4]
+22:59:22 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:2][MissionInx0:3]
+22:59:22 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx0:2]
+22:59:22 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx1:4]
+22:59:22 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:4][MissionInx0:0]
+22:59:22 [DGMonsterSoulConverterWeeklyMissionInfoRecv][Expire Mission Info] 2020-12-17 AM05:30
+22:59:22 [FreeChannelSwitch] [Add Server] ServerCode:20
+23:02:32 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:03:31 [ KANTURU ][ BattleStanby ] State(2) -> END
+23:03:32 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+23:03:32 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+23:03:32 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+23:03:32 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+23:05:31 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+23:05:31 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+23:05:31 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+23:05:31 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+23:05:33 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+23:05:33 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+23:05:33 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+23:05:33 [ KANTURU ] State(2) -> END
+23:05:33 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+23:05:33 [ KANTURU ] State(5) -> NONE
+23:05:33 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+23:05:33 [ KANTURU ] State(0) -> STANDBY
+23:05:33 [ KANTURU ][ BattleStanby ] State(0) -> START
+23:05:55 [ObjectManager][21000] AddClient (186.52.234.115)
+23:05:57 [ObjectManager][21000] AddAccountInfo (admin)
+23:06:04 [Gremory Case][GDGremoryCaseReqItemListSend][Account:admin][Name:Lukasz] Request to load Gremory Case item list
+23:06:04 [BlockChat][GDReqBlockChatList] Send Request Block List
+23:06:04 [FavoriteWarpList][GDFavoriteWarpListReqSend] User Req Info [Account:admin][Name:Lukasz]
+23:06:04 [ObjectManager][21000] AddCharacterInfo (Lukasz)
+23:06:04 [Gremory Case][DGGremoryCaseReqItemListRecv][Account:admin][Name:Lukasz] Received item list [Character:0]-[Server:0]-[MuMobil:0]-[Private:0]
+23:06:04 [RestoreItem] [admin][Lukasz] DB load count: 5
+23:06:04 [RestoreItem] [admin][Lukasz] After count that delete expired item : (5) - (2) = (3)
+23:06:04 [EvoMonRenewal][LOGIN_SNAPSHOT][admin][Lukasz](-1:0:0)(-1:0:0)(-1:0:0)(-1:0:0)(-1:0:0)(0)
+23:06:08 [RestoreItem] [admin][Lukasz] Restore item list save complete. (ItemCnt: 3)
+23:06:08 [FavoriteWarpList][GDFavoriteWarpListSaveSend] User Req Save Info [Account:admin][Name:Lukasz]
+23:06:08 [ObjectManager][21000] DelCharacterInfo (Lukasz)
+23:06:08 [ObjectManager][21000] DelAccountInfo (admin)
+23:06:08 [ObjectManager][21000] DelClient (186.52.234.115)
+23:07:23 [ObjectManager][21000] AddClient (186.48.104.194)
+23:07:26 [ObjectManager][21000] AddAccountInfo (M0nia)
+23:07:42 [Gremory Case][GDGremoryCaseReqItemListSend][Account:M0nia][Name:Supergrox] Request to load Gremory Case item list
+23:07:42 [BlockChat][GDReqBlockChatList] Send Request Block List
+23:07:42 [FavoriteWarpList][GDFavoriteWarpListReqSend] User Req Info [Account:M0nia][Name:Supergrox]
+23:07:42 [ObjectManager][21000] AddCharacterInfo (Supergrox)
+23:07:42 [Gremory Case][DGGremoryCaseReqItemListRecv][Account:M0nia][Name:Supergrox] Received item list [Character:0]-[Server:0]-[MuMobil:0]-[Private:0]
+23:07:42 [RestoreItem] [M0nia][Supergrox] DB load count: 5
+23:07:42 [RestoreItem] [M0nia][Supergrox] After count that delete expired item : (5) - (2) = (3)
+23:07:42 [EvoMonRenewal][LOGIN_SNAPSHOT][M0nia][Supergrox](-1:0:0)(-1:0:0)(-1:0:0)(-1:0:0)(-1:0:0)(0)
+23:08:52 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:09:35 [RestoreItem] [M0nia][Supergrox] Restore item list save complete. (ItemCnt: 3)
+23:09:35 [FavoriteWarpList][GDFavoriteWarpListSaveSend] User Req Save Info [Account:M0nia][Name:Supergrox]
+23:09:51 [ KANTURU ][ BattleStanby ] State(2) -> END
+23:09:51 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+23:09:51 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+23:09:51 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+23:09:51 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+23:10:40 [RestoreItem] [M0nia][Supergrox] Restore item list save complete. (ItemCnt: 3)
+23:10:40 [FavoriteWarpList][GDFavoriteWarpListSaveSend] User Req Save Info [Account:M0nia][Name:Supergrox]
+23:11:50 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+23:11:50 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+23:11:50 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+23:11:50 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+23:11:52 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+23:11:53 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+23:11:53 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+23:11:53 [ KANTURU ] State(2) -> END
+23:11:53 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+23:11:53 [ KANTURU ] State(5) -> NONE
+23:11:53 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+23:11:53 [ KANTURU ] State(0) -> STANDBY
+23:11:53 [ KANTURU ][ BattleStanby ] State(0) -> START
+23:12:13 [RestoreItem] [M0nia][Supergrox] Restore item list save complete. (ItemCnt: 3)
+23:12:13 [FavoriteWarpList][GDFavoriteWarpListSaveSend] User Req Save Info [Account:M0nia][Name:Supergrox]
+23:14:02 [RestoreItem] [M0nia][Supergrox] Restore item list save complete. (ItemCnt: 3)
+23:14:02 [FavoriteWarpList][GDFavoriteWarpListSaveSend] User Req Save Info [Account:M0nia][Name:Supergrox]
+23:15:12 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:15:13 [RestoreItem] [M0nia][Supergrox] Restore item list save complete. (ItemCnt: 3)
+23:15:13 [FavoriteWarpList][GDFavoriteWarpListSaveSend] User Req Save Info [Account:M0nia][Name:Supergrox]
+23:16:11 [ KANTURU ][ BattleStanby ] State(2) -> END
+23:16:11 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+23:16:11 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+23:16:11 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+23:16:11 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+23:16:27 [RestoreItem] [M0nia][Supergrox] Restore item list save complete. (ItemCnt: 3)
+23:16:27 [FavoriteWarpList][GDFavoriteWarpListSaveSend] User Req Save Info [Account:M0nia][Name:Supergrox]
+23:17:23 [RestoreItem] [M0nia][Supergrox] Restore item list save complete. (ItemCnt: 3)
+23:17:23 [FavoriteWarpList][GDFavoriteWarpListSaveSend] User Req Save Info [Account:M0nia][Name:Supergrox]
+23:18:10 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+23:18:10 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+23:18:10 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+23:18:10 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+23:18:12 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+23:18:12 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+23:18:12 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+23:18:12 [ KANTURU ] State(2) -> END
+23:18:12 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+23:18:12 [ KANTURU ] State(5) -> NONE
+23:18:12 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+23:18:12 [ KANTURU ] State(0) -> STANDBY
+23:18:12 [ KANTURU ][ BattleStanby ] State(0) -> START
+23:18:46 [CloseClient] CloseType:83
+23:32:27 [ServerInfo] CashShop loaded successfully
+23:32:27 [ServerInfo] ChaosMix loaded successfully
+23:32:27 [ServerInfo] Character loaded successfully
+23:32:27 [ServerInfo] Command loaded successfully
+23:32:27 [AntiDDoS] Status: 0
+23:32:27 [Language] Load English.xml language definition
+23:32:27 [ServerInfo] Common loaded successfully
+23:32:27 [ServerInfo] Event loaded successfully
+23:32:27 [ServerInfo] EventItemBag loaded successfully
+23:32:27 [ServerInfo] Hack loaded successfully
+23:32:28 [ServerInfo] Item loaded successfully
+23:32:28 [FereaBossZone][SummonMonster] MonsterIndex: 735/Ferea Cryst, Map: 112, X: 24, Y: 123 
+23:32:28 FEREA BOSS ZONE:Ferea Start
+23:32:28 [FereaBossZone][CrystalBallRegen] Create
+23:32:28 [NixiesBoss][SummonMonster] MonsterIndex: 746/Nix, Map: 113, X: 30, Y: 218, Attr : 2 
+23:32:28 [NixiesBoss][Regen] Regen Boss Nix. [1], Attr:[2]
+23:32:28 [ServerInfo] Monster loaded successfully
+23:32:28 [ServerInfo] Custom loaded successfully
+23:32:28 TEST A 
+23:32:28 [ServerInfo] Move loaded successfully
+23:32:28 [ServerInfo] Quest loaded successfully
+23:32:28 [ServerInfo] Shop loaded successfully
+23:32:28 [ServerInfo] Skill loaded successfully
+23:32:28 [ServerInfo] Util loaded successfully
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:457 - Type:2 - MonsterClass:8 - Map:1 - Dis:30 - X:51 - Y:120 - Dir :6 - TX:0 - TY:0 - Element:0
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:555 - Type:2 - MonsterClass:11 - Map:1 - Dis:30 - X:240 - Y:5 - Dir :3 - TX:0 - TY:0 - Element:0
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:2219 - Type:2 - MonsterClass:51 - Map:7 - Dis:30 - X:252 - Y:49 - Dir :0 - TX:0 - TY:0 - Element:0
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:2250 - Type:2 - MonsterClass:51 - Map:7 - Dis:30 - X:8 - Y:52 - Dir :3 - TX:0 - TY:0 - Element:0
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:3616 - Type:2 - MonsterClass:359 - Map:38 - Dis:30 - X:150 - Y:75 - Dir :1 - TX:0 - TY:0 - Element:0
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:5507 - Type:1 - MonsterClass:689 - Map:100 - Dis:0 - X:137 - Y:132 - Dir :1 - TX:138 - TY:133 - Element:0
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8271 - Type:1 - MonsterClass:787 - Map:122 - Dis:8 - X:214 - Y:239 - Dir :5 - TX:214 - TY:239 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8272 - Type:1 - MonsterClass:787 - Map:122 - Dis:8 - X:214 - Y:239 - Dir :5 - TX:214 - TY:239 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8273 - Type:1 - MonsterClass:787 - Map:122 - Dis:8 - X:214 - Y:239 - Dir :0 - TX:214 - TY:239 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8370 - Type:1 - MonsterClass:788 - Map:122 - Dis:8 - X:202 - Y:203 - Dir :0 - TX:202 - TY:203 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8371 - Type:1 - MonsterClass:788 - Map:122 - Dis:8 - X:202 - Y:203 - Dir :7 - TX:202 - TY:203 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8372 - Type:1 - MonsterClass:788 - Map:122 - Dis:8 - X:202 - Y:203 - Dir :4 - TX:202 - TY:203 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8373 - Type:1 - MonsterClass:788 - Map:122 - Dis:8 - X:202 - Y:203 - Dir :4 - TX:202 - TY:203 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8449 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:162 - Y:185 - Dir :1 - TX:162 - TY:185 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8450 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:162 - Y:185 - Dir :0 - TX:162 - TY:185 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8451 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:162 - Y:185 - Dir :2 - TX:162 - TY:185 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8452 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:162 - Y:185 - Dir :7 - TX:162 - TY:185 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8463 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :0 - TX:185 - TY:66 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8464 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :2 - TX:185 - TY:66 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8465 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :0 - TX:185 - TY:66 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8466 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :5 - TX:185 - TY:66 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8467 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :7 - TX:185 - TY:66 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8468 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :7 - TX:185 - TY:66 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8469 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :0 - TX:185 - TY:66 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8470 - Type:1 - MonsterClass:789 - Map:122 - Dis:8 - X:185 - Y:66 - Dir :2 - TX:185 - TY:66 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8526 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:85 - Y:197 - Dir :1 - TX:0 - TY:0 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8527 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:89 - Y:192 - Dir :7 - TX:0 - TY:0 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8543 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:119 - Y:242 - Dir :6 - TX:0 - TY:0 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8546 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:92 - Y:239 - Dir :5 - TX:0 - TY:0 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8548 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:33 - Y:196 - Dir :5 - TX:0 - TY:0 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8549 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:42 - Y:212 - Dir :2 - TX:0 - TY:0 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8550 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:32 - Y:211 - Dir :1 - TX:0 - TY:0 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8553 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:21 - Y:174 - Dir :6 - TX:0 - TY:0 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8555 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:28 - Y:173 - Dir :5 - TX:0 - TY:0 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8560 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:65 - Y:183 - Dir :6 - TX:0 - TY:0 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8562 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:59 - Y:224 - Dir :7 - TX:0 - TY:0 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8566 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:89 - Y:237 - Dir :3 - TX:0 - TY:0 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8575 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:182 - Y:178 - Dir :6 - TX:0 - TY:0 - Element:4
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8579 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:202 - Y:199 - Dir :3 - TX:0 - TY:0 - Element:4
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8601 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:161 - Y:213 - Dir :1 - TX:0 - TY:0 - Element:4
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8604 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:146 - Y:215 - Dir :4 - TX:0 - TY:0 - Element:4
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8605 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:133 - Y:211 - Dir :5 - TX:0 - TY:0 - Element:4
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8606 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:142 - Y:212 - Dir :5 - TX:0 - TY:0 - Element:4
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8610 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:149 - Y:174 - Dir :1 - TX:0 - TY:0 - Element:4
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8620 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:239 - Y:165 - Dir :4 - TX:0 - TY:0 - Element:2
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8641 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:180 - Y:64 - Dir :5 - TX:0 - TY:0 - Element:5
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8642 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:170 - Y:62 - Dir :0 - TX:0 - TY:0 - Element:5
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8645 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:154 - Y:78 - Dir :6 - TX:0 - TY:0 - Element:5
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8646 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:154 - Y:77 - Dir :1 - TX:0 - TY:0 - Element:5
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8658 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:90 - Y:24 - Dir :1 - TX:0 - TY:0 - Element:5
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8664 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:40 - Y:38 - Dir :0 - TX:0 - TY:0 - Element:3
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8667 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:33 - Y:85 - Dir :3 - TX:0 - TY:0 - Element:3
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8674 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:87 - Y:85 - Dir :0 - TX:0 - TY:0 - Element:3
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8675 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:91 - Y:86 - Dir :1 - TX:0 - TY:0 - Element:3
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8676 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:102 - Y:102 - Dir :1 - TX:0 - TY:0 - Element:3
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8677 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:104 - Y:101 - Dir :5 - TX:0 - TY:0 - Element:3
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8681 - Type:2 - MonsterClass:786 - Map:122 - Dis:3 - X:83 - Y:94 - Dir :7 - TX:0 - TY:0 - Element:3
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8690 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:251 - Y:74 - Dir :1 - TX:0 - TY:0 - Element:2
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8696 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:209 - Y:123 - Dir :7 - TX:0 - TY:0 - Element:2
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8703 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:183 - Y:120 - Dir :4 - TX:0 - TY:0 - Element:2
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8705 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:167 - Y:75 - Dir :7 - TX:0 - TY:0 - Element:2
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8706 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:182 - Y:69 - Dir :7 - TX:0 - TY:0 - Element:2
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8707 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:149 - Y:78 - Dir :6 - TX:0 - TY:0 - Element:5
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8708 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:150 - Y:83 - Dir :6 - TX:0 - TY:0 - Element:5
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8711 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:134 - Y:80 - Dir :7 - TX:0 - TY:0 - Element:5
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8718 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:117 - Y:90 - Dir :1 - TX:0 - TY:0 - Element:5
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8726 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:59 - Y:78 - Dir :1 - TX:0 - TY:0 - Element:3
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8727 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:48 - Y:77 - Dir :4 - TX:0 - TY:0 - Element:3
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8729 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:36 - Y:79 - Dir :3 - TX:0 - TY:0 - Element:3
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8738 - Type:2 - MonsterClass:787 - Map:122 - Dis:3 - X:44 - Y:39 - Dir :6 - TX:0 - TY:0 - Element:3
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:8928 - Type:2 - MonsterClass:816 - Map:124 - Dis:6 - X:117 - Y:96 - Dir :3 - TX:0 - TY:0 - Element:2
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:10572 - Type:2 - MonsterClass:846 - Map:131 - Dis:4 - X:72 - Y:38 - Dir :0 - TX:0 - TY:0 - Element:2
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:10917 - Type:2 - MonsterClass:0 - Map:132 - Dis:0 - X:3 - Y:-1 - Dir :0 - TX:0 - TY:0 - Element:0
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:11016 - Type:2 - MonsterClass:861 - Map:132 - Dis:10 - X:75 - Y:3 - Dir :7 - TX:0 - TY:0 - Element:1
+23:32:28 [gObjSetPosMonster][GetPosition] Location Error number:11018 - Type:2 - MonsterClass:861 - Map:132 - Dis:10 - X:63 - Y:3 - Dir :5 - TX:0 - TY:0 - Element:1
+23:32:28 [Blood Castle] (1) SetState BLANK
+23:32:28 [Blood Castle] (2) SetState BLANK
+23:32:28 [Blood Castle] (3) SetState BLANK
+23:32:28 [Blood Castle] (4) SetState BLANK
+23:32:28 [Blood Castle] (5) SetState BLANK
+23:32:28 [Blood Castle] (6) SetState BLANK
+23:32:28 [Blood Castle] (7) SetState BLANK
+23:32:28 [Blood Castle] (8) SetState BLANK
+23:32:28 [Castle Deep] SetState BLANK
+23:32:28 [Chaos Castle] (1) SetState BLANK
+23:32:28 [Chaos Castle] (2) SetState BLANK
+23:32:28 [Chaos Castle] (3) SetState BLANK
+23:32:28 [Chaos Castle] (4) SetState BLANK
+23:32:28 [Chaos Castle] (5) SetState BLANK
+23:32:28 [Chaos Castle] (6) SetState BLANK
+23:32:28 [Chaos Castle] (7) SetState BLANK
+23:32:28 [Chaos Castle Survival] SetState BLANK
+23:32:28 [Devil Square] (1) SetState BLANK
+23:32:28 [Devil Square] (2) SetState BLANK
+23:32:28 [Devil Square] (3) SetState BLANK
+23:32:28 [Devil Square] (4) SetState BLANK
+23:32:28 [Devil Square] (5) SetState BLANK
+23:32:28 [Devil Square] (6) SetState BLANK
+23:32:28 [Devil Square] (7) SetState BLANK
+23:32:28 [AcheronGuardian] Sync Start Time. [183] min remain
+23:32:28 [ RAKLION ] State(0) -> END
+23:32:28 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+23:32:28 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+23:32:28 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+23:32:30 [Connection] connect() failed with error: 10061
+23:32:32 [Connection] connect() failed with error: 10061
+23:32:33 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+23:32:33 [ KANTURU ] State(0) -> STANDBY
+23:32:33 [ KANTURU ][ BattleStanby ] State(0) -> START
+23:32:33 [ RAKLION ] State(10) -> IDLE
+23:32:42 [FreeChannelSwitch] [Add Server] ServerCode:20
+23:32:42 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:0][MissionInx0:2]
+23:32:42 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx0:0]
+23:32:42 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx1:4]
+23:32:42 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:2][MissionInx0:3]
+23:32:42 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx0:2]
+23:32:42 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx1:4]
+23:32:42 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:4][MissionInx0:0]
+23:32:42 [DGMonsterSoulConverterWeeklyMissionInfoRecv][Expire Mission Info] 2020-12-17 AM05:30
+23:33:22 [ObjectManager][21000] AddClient (186.52.234.115)
+23:33:31 [ObjectManager][21000] AddAccountInfo (admin)
+23:33:34 [Gremory Case][GDGremoryCaseReqItemListSend][Account:admin][Name:Lukasz] Request to load Gremory Case item list
+23:33:34 [BlockChat][GDReqBlockChatList] Send Request Block List
+23:33:34 [FavoriteWarpList][GDFavoriteWarpListReqSend] User Req Info [Account:admin][Name:Lukasz]
+23:33:34 [ObjectManager][21000] AddCharacterInfo (Lukasz)
+23:33:34 [Gremory Case][DGGremoryCaseReqItemListRecv][Account:admin][Name:Lukasz] Received item list [Character:0]-[Server:0]-[MuMobil:0]-[Private:0]
+23:33:34 [RestoreItem] [admin][Lukasz] DB load count: 5
+23:33:34 [RestoreItem] [admin][Lukasz] After count that delete expired item : (5) - (2) = (3)
+23:33:34 [EvoMonRenewal][LOGIN_SNAPSHOT][admin][Lukasz](-1:0:0)(-1:0:0)(-1:0:0)(-1:0:0)(-1:0:0)(0)
+23:34:39 [ObjectManager][21001] AddClient (186.52.189.234)
+23:34:42 [ObjectManager][21001] AddAccountInfo (kevinrx)
+23:35:35 [Gremory Case][GDGremoryCaseReqItemListSend][Account:kevinrx][Name:Vegana] Request to load Gremory Case item list
+23:35:35 [BlockChat][GDReqBlockChatList] Send Request Block List
+23:35:35 [FavoriteWarpList][GDFavoriteWarpListReqSend] User Req Info [Account:kevinrx][Name:Vegana]
+23:35:35 [ObjectManager][21001] AddCharacterInfo (Vegana)
+23:35:35 [Gremory Case][DGGremoryCaseReqItemListRecv][Account:kevinrx][Name:Vegana] Received item list [Character:0]-[Server:0]-[MuMobil:0]-[Private:0]
+23:35:35 [RestoreItem] [kevinrx][Vegana] DB load count: 5
+23:35:35 [RestoreItem] [kevinrx][Vegana] After count that delete expired item : (5) - (2) = (3)
+23:35:35 [EvoMonRenewal][LOGIN_SNAPSHOT][kevinrx][Vegana](-1:0:0)(-1:0:0)(-1:0:0)(-1:0:0)(-1:0:0)(0)
+23:35:52 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:36:51 [ KANTURU ][ BattleStanby ] State(2) -> END
+23:36:51 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+23:36:51 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+23:36:51 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+23:36:51 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+23:37:14 [RestoreItem] [kevinrx][Vegana] Restore item list save complete. (ItemCnt: 3)
+23:37:14 [FavoriteWarpList][GDFavoriteWarpListSaveSend] User Req Save Info [Account:kevinrx][Name:Vegana]
+23:38:20 [RestoreItem] [kevinrx][Vegana] Restore item list save complete. (ItemCnt: 3)
+23:38:20 [FavoriteWarpList][GDFavoriteWarpListSaveSend] User Req Save Info [Account:kevinrx][Name:Vegana]
+23:38:51 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+23:38:51 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+23:38:51 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+23:38:51 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+23:38:53 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+23:38:53 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+23:38:53 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+23:38:53 [ KANTURU ] State(2) -> END
+23:38:53 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+23:38:53 [ KANTURU ] State(5) -> NONE
+23:38:53 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+23:38:53 [ KANTURU ] State(0) -> STANDBY
+23:38:53 [ KANTURU ][ BattleStanby ] State(0) -> START
+23:39:20 [RestoreItem] [kevinrx][Vegana] Restore item list save complete. (ItemCnt: 3)
+23:39:20 [FavoriteWarpList][GDFavoriteWarpListSaveSend] User Req Save Info [Account:kevinrx][Name:Vegana]
+23:40:49 [RestoreItem] [kevinrx][Vegana] Restore item list save complete. (ItemCnt: 3)
+23:40:49 [FavoriteWarpList][GDFavoriteWarpListSaveSend] User Req Save Info [Account:kevinrx][Name:Vegana]
+23:42:07 [RestoreItem] [kevinrx][Vegana] Restore item list save complete. (ItemCnt: 3)
+23:42:07 [FavoriteWarpList][GDFavoriteWarpListSaveSend] User Req Save Info [Account:kevinrx][Name:Vegana]
+23:42:12 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:43:11 [ KANTURU ][ BattleStanby ] State(2) -> END
+23:43:11 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+23:43:11 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+23:43:11 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+23:43:11 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+23:43:22 [RestoreItem] [admin][Lukasz] Restore item list save complete. (ItemCnt: 3)
+23:43:22 [FavoriteWarpList][GDFavoriteWarpListSaveSend] User Req Save Info [Account:admin][Name:Lukasz]
+23:44:39 [RestoreItem] [kevinrx][Vegana] Restore item list save complete. (ItemCnt: 3)
+23:44:39 [FavoriteWarpList][GDFavoriteWarpListSaveSend] User Req Save Info [Account:kevinrx][Name:Vegana]
+23:45:10 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+23:45:10 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+23:45:10 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+23:45:10 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+23:45:12 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+23:45:12 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+23:45:12 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+23:45:12 [ KANTURU ] State(2) -> END
+23:45:12 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+23:45:12 [ KANTURU ] State(5) -> NONE
+23:45:12 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+23:45:12 [ KANTURU ] State(0) -> STANDBY
+23:45:12 [ KANTURU ][ BattleStanby ] State(0) -> START
+23:45:12 [RestoreItem] [kevinrx][Vegana] Restore item list save complete. (ItemCnt: 3)
+23:45:12 [FavoriteWarpList][GDFavoriteWarpListSaveSend] User Req Save Info [Account:kevinrx][Name:Vegana]
+23:45:30 [RestoreItem] [kevinrx][Vegana] Restore item list save complete. (ItemCnt: 3)
+23:45:30 [FavoriteWarpList][GDFavoriteWarpListSaveSend] User Req Save Info [Account:kevinrx][Name:Vegana]
+23:45:37 [RestoreItem] [kevinrx][Vegana] Restore item list save complete. (ItemCnt: 3)
+23:45:37 [FavoriteWarpList][GDFavoriteWarpListSaveSend] User Req Save Info [Account:kevinrx][Name:Vegana]
+23:45:37 [ObjectManager][21001] DelCharacterInfo (Vegana)
+23:45:39 [Gremory Case][GDGremoryCaseReqItemListSend][Account:kevinrx][Name:Vegana] Request to load Gremory Case item list
+23:45:39 [BlockChat][GDReqBlockChatList] Send Request Block List
+23:45:39 [FavoriteWarpList][GDFavoriteWarpListReqSend] User Req Info [Account:kevinrx][Name:Vegana]
+23:45:39 [ObjectManager][21001] AddCharacterInfo (Vegana)
+23:45:39 [Gremory Case][DGGremoryCaseReqItemListRecv][Account:kevinrx][Name:Vegana] Received item list [Character:0]-[Server:0]-[MuMobil:0]-[Private:0]
+23:45:39 [RestoreItem] [kevinrx][Vegana] DB load count: 5
+23:45:39 [RestoreItem] [kevinrx][Vegana] After count that delete expired item : (5) - (2) = (3)
+23:45:39 [EvoMonRenewal][LOGIN_SNAPSHOT][kevinrx][Vegana](-1:0:0)(-1:0:0)(-1:0:0)(-1:0:0)(-1:0:0)(0)
+23:47:03 [RestoreItem] [kevinrx][Vegana] Restore item list save complete. (ItemCnt: 3)
+23:47:03 [FavoriteWarpList][GDFavoriteWarpListSaveSend] User Req Save Info [Account:kevinrx][Name:Vegana]
+23:48:31 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:49:30 [ KANTURU ][ BattleStanby ] State(2) -> END
+23:49:30 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+23:49:30 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+23:49:30 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+23:49:30 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+23:51:30 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+23:51:30 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+23:51:30 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+23:51:30 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+23:51:32 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+23:51:32 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+23:51:32 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+23:51:32 [ KANTURU ] State(2) -> END
+23:51:32 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+23:51:32 [ KANTURU ] State(5) -> NONE
+23:51:32 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+23:51:32 [ KANTURU ] State(0) -> STANDBY
+23:51:32 [ KANTURU ][ BattleStanby ] State(0) -> START
+23:52:56 [ObjectManager][21002] AddClient (186.54.116.41)
+23:53:07 [ObjectManager][21002] DelClient (186.54.116.41)
+23:53:22 [RestoreItem] [admin][Lukasz] Restore item list save complete. (ItemCnt: 3)
+23:53:22 [FavoriteWarpList][GDFavoriteWarpListSaveSend] User Req Save Info [Account:admin][Name:Lukasz]
+23:54:40 [RestoreItem] [kevinrx][Vegana] Restore item list save complete. (ItemCnt: 3)
+23:54:40 [FavoriteWarpList][GDFavoriteWarpListSaveSend] User Req Save Info [Account:kevinrx][Name:Vegana]
+23:54:51 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:55:03 [RestoreItem] [kevinrx][Vegana] Restore item list save complete. (ItemCnt: 3)
+23:55:03 [FavoriteWarpList][GDFavoriteWarpListSaveSend] User Req Save Info [Account:kevinrx][Name:Vegana]
+23:55:03 [ObjectManager][21001] DelCharacterInfo (Vegana)
+23:55:50 [ KANTURU ][ BattleStanby ] State(2) -> END
+23:55:50 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+23:55:50 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+23:55:50 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+23:55:50 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+23:57:49 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+23:57:49 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+23:57:49 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+23:57:49 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+23:57:51 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+23:57:51 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+23:57:51 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+23:57:51 [ KANTURU ] State(2) -> END
+23:57:51 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+23:57:51 [ KANTURU ] State(5) -> NONE
+23:57:51 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+23:57:51 [ KANTURU ] State(0) -> STANDBY
+23:57:51 [ KANTURU ][ BattleStanby ] State(0) -> START
+23:58:45 [Gremory Case][GDGremoryCaseReqItemListSend][Account:kevinrx][Name:Kevinrx] Request to load Gremory Case item list
+23:58:45 [BlockChat][GDReqBlockChatList] Send Request Block List
+23:58:45 [FavoriteWarpList][GDFavoriteWarpListReqSend] User Req Info [Account:kevinrx][Name:Kevinrx]
+23:58:45 [ObjectManager][21001] AddCharacterInfo (Kevinrx)
+23:58:45 [Gremory Case][DGGremoryCaseReqItemListRecv][Account:kevinrx][Name:Kevinrx] Received item list [Character:0]-[Server:0]-[MuMobil:0]-[Private:0]
+23:58:45 [RestoreItem] [kevinrx][Kevinrx] DB load count: 5
+23:58:45 [RestoreItem] [kevinrx][Kevinrx] After count that delete expired item : (5) - (2) = (3)
+23:58:45 [EvoMonRenewal][LOGIN_SNAPSHOT][kevinrx][Kevinrx](-1:0:0)(-1:0:0)(-1:0:0)(-1:0:0)(-1:0:0)(0)

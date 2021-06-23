@@ -1,0 +1,56 @@
+00:08:14 [ServerManager][0] DelServer (127.0.0.1)
+00:08:14 [AllowConectionManager][DELS][OK][AccountInfo][HWID:08E3877F-A6CA84B3-B66BFD78-CA78EAD3-69746E65-00000010-178BFBFF-7ED8320B][ConectionCount:0][Account:kevinrx]
+00:08:14 [AllowConectionManager][DELSALL][OK][AccountInfo][HWID:08E3877F-A6CA84B3-B66BFD78-CA78EAD3-69746E65-00000010-178BFBFF-7ED8320B][ConectionCount:0]
+00:08:14 [AllowConectionManager][DELS][OK][AccountInfo][HWID:2BC5CE5F-B4DDE6A5-D47B9F6C-BA0D9EBD-69746E65-00000010-178BFBFF-7ED8320B][ConectionCount:0][Account:admin]
+00:08:14 [AllowConectionManager][DELSALL][OK][AccountInfo][HWID:2BC5CE5F-B4DDE6A5-D47B9F6C-BA0D9EBD-69746E65-00000010-178BFBFF-7ED8320B][ConectionCount:0]
+00:09:00 [ServerManager][1] DelServer (127.0.0.1)
+00:10:30 [SocketManager] Server started at port [55970]
+00:10:30 [SocketManager] Server started at port [55557]
+00:10:35 [ServerManager][0] AddServer (127.0.0.1)
+00:12:14 [ServerManager][0] DelServer (127.0.0.1)
+00:12:54 [SocketManager] Server started at port [55970]
+00:12:54 [SocketManager] Server started at port [55557]
+00:13:00 [ServerManager][0] AddServer (127.0.0.1)
+00:13:00 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+00:13:02 [ServerManager][1] AddServer (127.0.0.1)
+00:13:30 [AllowConectionManager][ADD][+][HWID:08E3877F-A6CA84B3-B66BFD78-CA78EAD3-69746E65-00000010-178BFBFF-7ED8320B][ConectionCount:1][Account:kevinrx]
+00:14:38 [AllowConectionManager][ADD][+][HWID:43B0C43F-B9B991A5-C218FC1B-C50BEDBE-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:shiki]
+00:17:05 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:43B0C43F-B9B991A5-C218FC1B-C50BEDBE-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:0][Account:shiki]
+00:17:12 [AllowConectionManager][ADD][+][HWID:43B0C43F-B9B991A5-C218FC1B-C50BEDBE-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:shiki]
+00:18:59 [AllowConectionManager][ADD][+][HWID:2BC5CE5F-B4DDE6A5-D47B9F6C-BA0D9EBD-69746E65-00000010-178BFBFF-7ED8320B][ConectionCount:1][Account:admin]
+00:26:05 [ServerManager][0] DelServer (127.0.0.1)
+00:26:05 [AllowConectionManager][DELS][OK][AccountInfo][HWID:08E3877F-A6CA84B3-B66BFD78-CA78EAD3-69746E65-00000010-178BFBFF-7ED8320B][ConectionCount:0][Account:kevinrx]
+00:26:05 [AllowConectionManager][DELSALL][OK][AccountInfo][HWID:08E3877F-A6CA84B3-B66BFD78-CA78EAD3-69746E65-00000010-178BFBFF-7ED8320B][ConectionCount:0]
+00:26:05 [AllowConectionManager][DELS][OK][AccountInfo][HWID:2BC5CE5F-B4DDE6A5-D47B9F6C-BA0D9EBD-69746E65-00000010-178BFBFF-7ED8320B][ConectionCount:0][Account:admin]
+00:26:05 [AllowConectionManager][DELSALL][OK][AccountInfo][HWID:2BC5CE5F-B4DDE6A5-D47B9F6C-BA0D9EBD-69746E65-00000010-178BFBFF-7ED8320B][ConectionCount:0]
+00:27:07 [ServerManager][0] AddServer (127.0.0.1)
+00:27:10 [ServerManager][2] AddServer (127.0.0.1)
+00:27:10 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+00:27:34 [ServerManager][2] DelServer (127.0.0.1)
+00:27:34 [ServerManager][0] DelServer (127.0.0.1)
+00:27:36 [ServerManager][1] DelServer (127.0.0.1)
+00:27:52 [SocketManager] Server started at port [55970]
+00:27:52 [SocketManager] Server started at port [55557]
+00:27:58 [ServerManager][0] AddServer (127.0.0.1)
+00:27:58 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+00:28:01 [ServerManager][1] AddServer (127.0.0.1)
+00:28:15 [AllowConectionManager][ADD][+][HWID:2BC5CE5F-B4DDE6A5-D47B9F6C-BA0D9EBD-69746E65-00000010-178BFBFF-7ED8320B][ConectionCount:1][Account:admin]
+00:31:09 [AllowConectionManager][ADD][+][HWID:08E3877F-A6CA84B3-B66BFD78-CA78EAD3-69746E65-00000010-178BFBFF-7ED8320B][ConectionCount:1][Account:kevinrx]
+00:31:22 [AllowConectionManager][ADD][+][HWID:43B0C43F-B9B991A5-C218FC1B-C50BEDBE-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:shiki]
+00:54:14 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:2BC5CE5F-B4DDE6A5-D47B9F6C-BA0D9EBD-69746E65-00000010-178BFBFF-7ED8320B][ConectionCount:0][Account:admin]
+00:56:51 [AllowConectionManager][ADD][+][HWID:2BC5CE5F-B4DDE6A5-D47B9F6C-BA0D9EBD-69746E65-00000010-178BFBFF-7ED8320B][ConectionCount:1][Account:admin]
+00:58:56 [AllowConectionManager][ADD][+][HWID:5BC0CD2F-B9B991A5-C218FC1B-CA07E8BE-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:alekzezz]
+01:02:12 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:5BC0CD2F-B9B991A5-C218FC1B-CA07E8BE-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:0][Account:alekzezz]
+01:02:19 [AllowConectionManager][ADD][+][HWID:5BC0CD2F-B9B991A5-C218FC1B-CA07E8BE-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:alekzezz]
+01:09:36 [AllowConectionManager][ADD][+][HWID:0FE38F7B-A4BCF7B5-B16D897C-8941D8E7-69746E65-00000010-178BFBFF-7ED8320B][ConectionCount:1][Account:flipper]
+01:18:32 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:5BC0CD2F-B9B991A5-C218FC1B-CA07E8BE-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:0][Account:alekzezz]
+01:19:05 [AllowConectionManager][ADD][+][HWID:5BC0CD2F-B9B991A5-C218FC1B-CA07E8BE-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:alekzezz]
+01:27:39 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:5BC0CD2F-B9B991A5-C218FC1B-CA07E8BE-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:0][Account:alekzezz]
+01:28:10 [AllowConectionManager][ADD][+][HWID:5BC0CD2F-B9B991A5-C218FC1B-CA07E8BE-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:alekzezz]
+01:28:42 [ServerManager][1] DelServer (127.0.0.1)
+01:28:43 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:2BC5CE5F-B4DDE6A5-D47B9F6C-BA0D9EBD-69746E65-00000010-178BFBFF-7ED8320B][ConectionCount:0][Account:admin]
+01:28:43 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:08E3877F-A6CA84B3-B66BFD78-CA78EAD3-69746E65-00000010-178BFBFF-7ED8320B][ConectionCount:0][Account:kevinrx]
+01:28:43 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:43B0C43F-B9B991A5-C218FC1B-C50BEDBE-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:0][Account:shiki]
+01:28:43 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:0FE38F7B-A4BCF7B5-B16D897C-8941D8E7-69746E65-00000010-178BFBFF-7ED8320B][ConectionCount:0][Account:flipper]
+01:28:43 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:5BC0CD2F-B9B991A5-C218FC1B-CA07E8BE-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:0][Account:alekzezz]
+01:28:45 [ServerManager][0] DelServer (127.0.0.1)
