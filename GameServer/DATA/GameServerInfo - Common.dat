@@ -145,10 +145,10 @@ ElfBufferDefenseConstB = 3
 ;==================================================
 ; Experience Settings
 ;==================================================
-AddExperienceRate_AL0 = 3500
-AddExperienceRate_AL1 = 3500
-AddExperienceRate_AL2 = 3500
-AddExperienceRate_AL3 = 3500
+AddExperienceRate_AL0 = 1500
+AddExperienceRate_AL1 = 1500
+AddExperienceRate_AL2 = 1500
+AddExperienceRate_AL3 = 1500
 AddMasterExperienceRate_AL0 = 400
 AddMasterExperienceRate_AL1 = 10
 AddMasterExperienceRate_AL2 = 10
@@ -174,19 +174,19 @@ AddQuestExperienceRate_AL3 = 100
 ; Item Drop Settings
 ;==================================================
 ItemDropTime = 30
-ItemDropRate_AL0 = 40
-ItemDropRate_AL1 = 40
-ItemDropRate_AL2 = 40
-ItemDropRate_AL3 = 40
+ItemDropRate_AL0 = 60
+ItemDropRate_AL1 = 60
+ItemDropRate_AL2 = 60
+ItemDropRate_AL3 = 60
 
 ;==================================================
 ; Money Drop Settings
 ;==================================================
 MoneyDropTime = 30
-MoneyAmountDropRate_AL0 = 2000
-MoneyAmountDropRate_AL1 = 2000
-MoneyAmountDropRate_AL2 = 2000
-MoneyAmountDropRate_AL3 = 2000
+MoneyAmountDropRate_AL0 = 25
+MoneyAmountDropRate_AL1 = 25
+MoneyAmountDropRate_AL2 = 25
+MoneyAmountDropRate_AL3 = 25
 
 ;==================================================
 ; Item Durability Settings
@@ -409,15 +409,15 @@ ScoreBoardSwitch = 1
 ;==================================================
 PartyReconnectTime = 300
 PartyGeneralExperience1 = 100
-PartyGeneralExperience2 = 80
-PartyGeneralExperience3 = 75
-PartyGeneralExperience4 = 65
-PartyGeneralExperience5 = 60
+PartyGeneralExperience2 = 110
+PartyGeneralExperience3 = 120
+PartyGeneralExperience4 = 130
+PartyGeneralExperience5 = 140
 PartySpecialExperience1 = 100
-PartySpecialExperience2 = 80
-PartySpecialExperience3 = 75
-PartySpecialExperience4 = 65
-PartySpecialExperience5 = 60
+PartySpecialExperience2 = 110
+PartySpecialExperience3 = 120
+PartySpecialExperience4 = 130
+PartySpecialExperience5 = 140
 PartyMaxLevelDiference = 150
 
 ;==================================================
