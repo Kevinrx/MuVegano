@@ -31,6 +31,7 @@
 		<Config Class="568" Range="0" PositionX="125" PositionY="125" Direction="3" Element="0" /> <!-- "Jerint the Assistant" -->
 		<Config Class="492" Range="0" PositionX="141" PositionY="134" Direction="3" Element="0" /> <!-- "Moss" -->
 		<Config Class="406" Range="0" PositionX="142" PositionY="135" Direction="2" Element="0" /> <!-- "Trainer" -->
+		<Config Class="407" Range="0" PositionX="140" PositionY="125" Direction="1" Element="0" /> <!-- "Werewolf Quarel" -->
 	</NPC>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>

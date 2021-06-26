@@ -159,6 +159,16 @@
 	</NPC>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>
+		<Config Class="36" Range="3" BeginPosX="208" BeginPosY="88" EndPosX="211" EndPosY="92" Direction="-1" Quantity="20" Element="0" /> <!-- "Shadow" -->
+		<Config Class="36" Range="3" BeginPosX="209" BeginPosY="95" EndPosX="212" EndPosY="97" Direction="-1" Quantity="20" Element="0" /> <!-- "Shadow" -->
+		
+		<Config Class="34" Range="3" BeginPosX="208" BeginPosY="88" EndPosX="211" EndPosY="92" Direction="-1" Quantity="20" Element="0" /> <!-- "Cursed Wizard" -->
+		<Config Class="34" Range="3" BeginPosX="244" BeginPosY="235" EndPosX="247" EndPosY="238" Direction="-1" Quantity="20" Element="0" /> <!-- "Cursed Wizard" -->
+		
+		<Config Class="41" Range="3" BeginPosX="91" BeginPosY="172" EndPosX="94" EndPosY="175" Direction="-1" Quantity="20" Element="0" /> <!-- "Death Cow" -->
+		<Config Class="41" Range="3" BeginPosX="86" BeginPosY="176" EndPosX="89" EndPosY="179" Direction="-1" Quantity="20" Element="0" /> <!-- "Death Cow" -->
+		
+		
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<MONSTER>

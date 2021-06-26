@@ -1,0 +1,137 @@
+02:44:57 [ServerManager][0] DelServer (127.0.0.1)
+02:45:24 [SocketManager] Server started at port [55960]
+02:45:25 [ServerManager][0] AddServer (127.0.0.1)
+02:45:25 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+02:45:26 [MainProc][2][Expire Mission Info][Restore] 2020-12-17 AM05:30
+03:02:14 [ServerManager][0] DelServer (127.0.0.1)
+03:02:38 [SocketManager] Server started at port [55960]
+03:02:39 [ServerManager][0] AddServer (127.0.0.1)
+03:02:39 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+03:02:39 [MainProc][2][Expire Mission Info][Restore] 2020-12-17 AM05:30
+10:23:17 [SocketManager] Server started at port [55960]
+10:23:18 [MainProc][2][Expire Mission Info][Restore] 2020-12-17 AM05:30
+10:23:25 [ServerManager][0] AddServer (127.0.0.1)
+10:23:25 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+10:30:08 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:0][Count:1][Index:2]
+10:30:08 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:1][Count:2][Index:0]
+10:30:08 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:1][Count:2][Index:4]
+10:30:08 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:2][Count:1][Index:3]
+10:30:08 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:3][Count:2][Index:2]
+10:30:08 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:3][Count:2][Index:4]
+10:30:08 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:4][Count:1][Index:0]
+10:30:08 [MainProc] MissionInfo [Level:0][MissionInx1:2][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+10:30:08 [MainProc] MissionInfo [Level:1][MissionInx1:0][MissionInx2:4][MissionInx3:-1][MissionInx4:-1]
+10:30:08 [MainProc] MissionInfo [Level:2][MissionInx1:3][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+10:30:08 [MainProc] MissionInfo [Level:3][MissionInx1:2][MissionInx2:4][MissionInx3:-1][MissionInx4:-1]
+10:30:08 [MainProc] MissionInfo [Level:4][MissionInx1:0][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+10:30:08 [MainProc][3][Expire Mission Info][ReInfo] 2021-07-01 AM09:30
+13:29:31 [ServerManager][0] DelServer (127.0.0.1)
+13:30:15 [SocketManager] Server started at port [55960]
+13:30:16 [MainProc][2][Expire Mission Info][Restore] 2021-07-01 AM09:30
+13:30:16 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:0][Count:1][Index:2]
+13:30:16 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:1][Count:2][Index:0]
+13:30:16 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:1][Count:2][Index:4]
+13:30:16 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:2][Count:1][Index:3]
+13:30:16 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:3][Count:2][Index:2]
+13:30:16 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:3][Count:2][Index:4]
+13:30:16 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:4][Count:1][Index:0]
+13:30:16 [MainProc] MissionInfo [Level:0][MissionInx1:2][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+13:30:16 [MainProc] MissionInfo [Level:1][MissionInx1:0][MissionInx2:4][MissionInx3:-1][MissionInx4:-1]
+13:30:16 [MainProc] MissionInfo [Level:2][MissionInx1:3][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+13:30:16 [MainProc] MissionInfo [Level:3][MissionInx1:2][MissionInx2:4][MissionInx3:-1][MissionInx4:-1]
+13:30:16 [MainProc] MissionInfo [Level:4][MissionInx1:0][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+13:30:16 [MainProc][3][Expire Mission Info][ReInfo] 2021-07-01 AM09:30
+13:30:17 [ServerManager][0] AddServer (127.0.0.1)
+13:30:17 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+13:56:19 [ServerManager][0] DelServer (127.0.0.1)
+13:56:53 [SocketManager] Server started at port [55960]
+13:56:54 [MainProc][2][Expire Mission Info][Restore] 2021-07-01 AM09:30
+13:56:54 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:0][Count:1][Index:2]
+13:56:54 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:1][Count:2][Index:0]
+13:56:54 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:1][Count:2][Index:4]
+13:56:54 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:2][Count:1][Index:3]
+13:56:54 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:3][Count:2][Index:2]
+13:56:54 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:3][Count:2][Index:4]
+13:56:54 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:4][Count:1][Index:0]
+13:56:54 [MainProc] MissionInfo [Level:0][MissionInx1:2][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+13:56:54 [MainProc] MissionInfo [Level:1][MissionInx1:0][MissionInx2:4][MissionInx3:-1][MissionInx4:-1]
+13:56:54 [MainProc] MissionInfo [Level:2][MissionInx1:3][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+13:56:54 [MainProc] MissionInfo [Level:3][MissionInx1:2][MissionInx2:4][MissionInx3:-1][MissionInx4:-1]
+13:56:54 [MainProc] MissionInfo [Level:4][MissionInx1:0][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+13:56:54 [MainProc][3][Expire Mission Info][ReInfo] 2021-07-01 AM09:30
+13:57:02 [ServerManager][0] AddServer (127.0.0.1)
+13:57:02 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+15:53:17 [SocketManager] Server started at port [55960]
+15:53:17 [ServerManager][0] AddServer (127.0.0.1)
+15:53:17 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+15:53:18 [MainProc][2][Expire Mission Info][Restore] 2021-07-01 AM09:30
+15:53:18 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:0][Count:1][Index:2]
+15:53:18 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:1][Count:2][Index:0]
+15:53:18 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:1][Count:2][Index:4]
+15:53:18 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:2][Count:1][Index:3]
+15:53:18 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:3][Count:2][Index:2]
+15:53:18 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:3][Count:2][Index:4]
+15:53:18 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:4][Count:1][Index:0]
+15:53:18 [MainProc] MissionInfo [Level:0][MissionInx1:2][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+15:53:18 [MainProc] MissionInfo [Level:1][MissionInx1:0][MissionInx2:4][MissionInx3:-1][MissionInx4:-1]
+15:53:18 [MainProc] MissionInfo [Level:2][MissionInx1:3][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+15:53:18 [MainProc] MissionInfo [Level:3][MissionInx1:2][MissionInx2:4][MissionInx3:-1][MissionInx4:-1]
+15:53:18 [MainProc] MissionInfo [Level:4][MissionInx1:0][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+15:53:18 [MainProc][3][Expire Mission Info][ReInfo] 2021-07-01 AM09:30
+16:11:08 [SocketManager] Server started at port [55960]
+16:11:09 [MainProc][2][Expire Mission Info][Restore] 2021-07-01 AM09:30
+16:11:10 [ServerManager][0] AddServer (127.0.0.1)
+16:11:10 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+16:26:05 [SocketManager] Server started at port [55960]
+16:26:06 [ServerManager][0] AddServer (127.0.0.1)
+16:26:06 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+16:26:06 [MainProc][2][Expire Mission Info][Restore] 2021-07-01 AM09:30
+16:30:07 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:0][Count:1][Index:2]
+16:30:07 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:1][Count:2][Index:0]
+16:30:07 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:1][Count:2][Index:4]
+16:30:07 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:2][Count:1][Index:3]
+16:30:07 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:3][Count:2][Index:2]
+16:30:07 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:3][Count:2][Index:4]
+16:30:07 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:4][Count:1][Index:0]
+16:30:07 [MainProc] MissionInfo [Level:0][MissionInx1:2][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+16:30:07 [MainProc] MissionInfo [Level:1][MissionInx1:0][MissionInx2:4][MissionInx3:-1][MissionInx4:-1]
+16:30:07 [MainProc] MissionInfo [Level:2][MissionInx1:3][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+16:30:07 [MainProc] MissionInfo [Level:3][MissionInx1:2][MissionInx2:4][MissionInx3:-1][MissionInx4:-1]
+16:30:07 [MainProc] MissionInfo [Level:4][MissionInx1:0][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+16:30:07 [MainProc][3][Expire Mission Info][ReInfo] 2021-07-01 AM09:30
+16:35:28 [ServerManager][0] DelServer (127.0.0.1)
+16:36:03 [SocketManager] Server started at port [55960]
+16:36:04 [ServerManager][0] AddServer (127.0.0.1)
+16:36:04 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+16:36:04 [MainProc][2][Expire Mission Info][Restore] 2021-07-01 AM09:30
+16:36:04 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:0][Count:1][Index:2]
+16:36:04 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:1][Count:2][Index:0]
+16:36:04 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:1][Count:2][Index:4]
+16:36:04 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:2][Count:1][Index:3]
+16:36:04 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:3][Count:2][Index:2]
+16:36:04 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:3][Count:2][Index:4]
+16:36:04 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:4][Count:1][Index:0]
+16:36:04 [MainProc] MissionInfo [Level:0][MissionInx1:2][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+16:36:04 [MainProc] MissionInfo [Level:1][MissionInx1:0][MissionInx2:4][MissionInx3:-1][MissionInx4:-1]
+16:36:04 [MainProc] MissionInfo [Level:2][MissionInx1:3][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+16:36:04 [MainProc] MissionInfo [Level:3][MissionInx1:2][MissionInx2:4][MissionInx3:-1][MissionInx4:-1]
+16:36:04 [MainProc] MissionInfo [Level:4][MissionInx1:0][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+16:36:04 [MainProc][3][Expire Mission Info][ReInfo] 2021-07-01 AM09:30
+21:40:59 [ServerManager][0] DelServer (127.0.0.1)
+23:11:11 [SocketManager] Server started at port [55960]
+23:11:12 [ServerManager][0] AddServer (127.0.0.1)
+23:11:12 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+23:11:12 [MainProc][2][Expire Mission Info][Restore] 2021-07-01 AM09:30
+23:30:03 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:0][Count:1][Index:2]
+23:30:03 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:1][Count:2][Index:0]
+23:30:03 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:1][Count:2][Index:4]
+23:30:03 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:2][Count:1][Index:3]
+23:30:03 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:3][Count:2][Index:2]
+23:30:03 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:3][Count:2][Index:4]
+23:30:03 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:4][Count:1][Index:0]
+23:30:03 [MainProc] MissionInfo [Level:0][MissionInx1:2][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+23:30:03 [MainProc] MissionInfo [Level:1][MissionInx1:0][MissionInx2:4][MissionInx3:-1][MissionInx4:-1]
+23:30:03 [MainProc] MissionInfo [Level:2][MissionInx1:3][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+23:30:03 [MainProc] MissionInfo [Level:3][MissionInx1:2][MissionInx2:4][MissionInx3:-1][MissionInx4:-1]
+23:30:03 [MainProc] MissionInfo [Level:4][MissionInx1:0][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+23:30:03 [MainProc][3][Expire Mission Info][ReInfo] 2021-07-01 AM09:30

@@ -38,6 +38,15 @@
 		<Config Class="31" Range="30" BeginPosX="41" BeginPosY="107" EndPosX="107" EndPosY="181" Direction="-1" Quantity="20" Element="0" /> <!-- "Agon" -->
 		<Config Class="31" Range="30" BeginPosX="105" BeginPosY="184" EndPosX="247" EndPosY="246" Direction="-1" Quantity="20" Element="0" /> <!-- "Agon" -->
 		<Config Class="32" Range="30" BeginPosX="4" BeginPosY="168" EndPosX="115" EndPosY="248" Direction="-1" Quantity="40" Element="0" /> <!-- "Stone Golem" -->
+		
+		<Config Class="26" Range="3" BeginPosX="151" BeginPosY="117" EndPosX="154" EndPosY="120" Direction="-1" Quantity="20" Element="0" /> <!-- "Goblin" -->
+		<Config Class="27" Range="3" BeginPosX="141" BeginPosY="120" EndPosX="143" EndPosY="123" Direction="-1" Quantity="20" Element="0" /> <!-- "Chain Scorpion" -->
+		<Config Class="31" Range="3" BeginPosX="147" BeginPosY="127" EndPosX="150" EndPosY="130" Direction="-1" Quantity="20" Element="0" /> <!-- "Agon" -->
+		<Config Class="28" Range="3" BeginPosX="144" BeginPosY="113" EndPosX="147" EndPosY="116" Direction="-1" Quantity="20" Element="0" /> <!-- "Beetle Monster" -->
+		<Config Class="26" Range="3" BeginPosX="132" BeginPosY="107" EndPosX="135" EndPosY="110" Direction="-1" Quantity="20" Element="0" /> <!-- "Goblin" -->
+		<Config Class="27" Range="3" BeginPosX="124" BeginPosY="115" EndPosX="127" EndPosY="118" Direction="-1" Quantity="20" Element="0" /> <!-- "Chain Scorpion" -->
+		<Config Class="31" Range="3" BeginPosX="124" BeginPosY="132" EndPosX="127" EndPosY="135" Direction="-1" Quantity="20" Element="0" /> <!-- "Agon" -->
+		<Config Class="28" Range="3" BeginPosX="142" BeginPosY="138" EndPosX="145" EndPosY="141" Direction="-1" Quantity="20" Element="0" /> <!-- "Beetle Monster" -->
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<MONSTER>
