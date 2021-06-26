@@ -1,4 +1,5 @@
 //Index   Level   Grade   Value         Comment
+0         0       *       10000000      //Kriss
 2055      0       *       100           //Bolt
 2055      1       *       1400          //Bolt
 2055      2       *       2200          //Bolt

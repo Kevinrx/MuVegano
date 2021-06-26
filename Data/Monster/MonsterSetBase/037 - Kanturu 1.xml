@@ -6,6 +6,14 @@
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>
 		<Config Class="554" Range="30" BeginPosX="70" BeginPosY="167" EndPosX="70" EndPosY="167" Direction="-1" Quantity="2" Element="0" /> <!-- "Spider" -->
+		
+		<Config Class="351" Range="3" BeginPosX="41" BeginPosY="233" EndPosX="44" EndPosY="235" Direction="-1" Quantity="20" Element="0" /> <!-- "Splinter Wolf" -->
+		<Config Class="352" Range="3" BeginPosX="46" BeginPosY="230" EndPosX="49" EndPosY="233" Direction="-1" Quantity="20" Element="0" /> <!-- "Iron Rider" -->
+		<Config Class="353" Range="3" BeginPosX="67" BeginPosY="233" EndPosX="70" EndPosY="236" Direction="-1" Quantity="20" Element="0" /> <!-- "Satyros" -->
+		
+		<Config Class="553" Range="3" BeginPosX="84" BeginPosY="238" EndPosX="87" EndPosY="241" Direction="-1" Quantity="20" Element="0" /> <!-- "Berserker Warrior" -->
+		<Config Class="554" Range="3" BeginPosX="92" BeginPosY="235" EndPosX="95" EndPosY="238" Direction="-1" Quantity="20" Element="0" /> <!-- "Kentauros Warrior" -->
+		<Config Class="556" Range="3" BeginPosX="111" BeginPosY="237" EndPosX="114" EndPosY="240" Direction="-1" Quantity="20" Element="0" /> <!-- "Genocider Warrior" -->
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<MONSTER>

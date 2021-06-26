@@ -1,0 +1,75 @@
+00:22:47 [ServerList] GameServer online (GameServerCS) (19)
+00:34:06 [SocketManager] Server started at port [44405]
+00:34:14 [ServerList] ServerList loaded successfully
+00:34:16 [ServerList] GameServer online (GameServer) (20)
+00:34:16 [Connection] connect() failed with error: 10061
+00:34:19 [ServerList] JoinServer online
+00:34:22 [ServerList] GameServer online (GameServerCS) (19)
+00:35:32 [ServerList] GameServer offline (GameServerCS) (19)
+00:36:39 [ServerList] GameServer online (GameServerCS) (19)
+00:38:57 [SocketManager] Server started at port [44405]
+00:39:05 [ServerList] ServerList loaded successfully
+00:39:05 [ServerList] GameServer online (GameServerCS) (19)
+00:39:06 [ServerList] GameServer online (GameServer) (20)
+00:39:08 [ServerList] JoinServer online
+00:43:39 [Connection] connect() failed with error: 10061
+00:43:47 [SocketManager] Server started at port [44405]
+00:43:55 [ServerList] ServerList loaded successfully
+00:43:56 [ServerList] GameServer online (GameServer) (20)
+00:43:57 [Connection] send() failed with error: 10057
+00:43:57 [Connection] connect() failed with error: 10038
+00:43:58 [ServerList] GameServer online (GameServerCS) (19)
+00:43:58 [ServerList] JoinServer online
+00:48:15 [SocketManager] Server started at port [44405]
+00:48:23 [ServerList] ServerList loaded successfully
+00:48:24 [ServerList] GameServer online (GameServer) (20)
+00:48:25 [Connection] connect() failed with error: 10061
+00:48:25 [ServerList] GameServer online (GameServerCS) (19)
+00:48:26 [ServerList] JoinServer online
+00:54:03 [SocketManager] Server started at port [44405]
+00:54:11 [ServerList] ServerList loaded successfully
+00:54:11 [ServerList] GameServer online (GameServer) (20)
+00:54:12 [ServerList] GameServer online (GameServerCS) (19)
+00:54:14 [ServerList] JoinServer online
+00:57:07 [SocketManager] Server started at port [44405]
+00:57:15 [ServerList] ServerList loaded successfully
+00:57:16 [ServerList] GameServer online (GameServerCS) (19)
+00:57:16 [ServerList] GameServer online (GameServer) (20)
+00:57:18 [ServerList] JoinServer online
+01:05:39 [SocketManager] Server started at port [44405]
+01:05:47 [ServerList] ServerList loaded successfully
+01:05:48 [ServerList] GameServer online (GameServerCS) (19)
+01:05:48 [ServerList] GameServer online (GameServer) (20)
+01:05:50 [ServerList] JoinServer online
+03:02:33 [ServerList] GameServer offline (GameServer) (20)
+03:03:03 [SocketManager] Server started at port [44405]
+03:03:12 [ServerList] ServerList loaded successfully
+03:03:12 [ServerList] GameServer online (GameServer) (20)
+03:03:12 [ServerList] GameServer online (GameServerCS) (19)
+03:03:15 [ServerList] JoinServer online
+03:22:02 [ServerList] GameServer offline (GameServer) (20)
+03:22:29 [ServerList] GameServer online (GameServer) (20)
+04:15:40 [SocketManager] Server started at port [44405]
+04:15:48 [ServerList] ServerList loaded successfully
+04:15:50 [Connection] connect() failed with error: 10061
+04:16:02 [Connection] connect() failed with error: 10061
+04:16:12 [Connection] connect() failed with error: 10061
+04:16:18 [ServerList] JoinServer online
+04:16:21 [ServerList] GameServer online (GameServerCS) (19)
+04:16:25 [ServerList] GameServer online (GameServer) (20)
+13:40:56 [SocketManager] Server started at port [44405]
+13:41:04 [ServerList] ServerList loaded successfully
+13:41:06 [Connection] connect() failed with error: 10061
+13:41:18 [Connection] connect() failed with error: 10061
+13:41:28 [Connection] connect() failed with error: 10061
+13:41:35 [ServerList] JoinServer online
+13:41:38 [ServerList] GameServer online (GameServerCS) (19)
+13:41:41 [ServerList] GameServer online (GameServer) (20)
+23:23:27 [SocketManager] Server started at port [44405]
+23:23:36 [ServerList] ServerList loaded successfully
+23:23:38 [Connection] connect() failed with error: 10061
+23:23:50 [Connection] connect() failed with error: 10061
+23:24:00 [Connection] connect() failed with error: 10061
+23:24:07 [ServerList] JoinServer online
+23:24:09 [ServerList] GameServer online (GameServerCS) (19)
+23:24:12 [ServerList] GameServer online (GameServer) (20)

@@ -1,7 +1,7 @@
 //ServerCode   PasiveServer	ServerName         ServerAddress      ServerPort       ServerType
-20             0 		"GameServer"       "fremsajo.com"    55901            "SHOW"
-21             0 		"GameServer1"      "fremsajo.com"    55902            "SHOW"
-22             0 		"GameServer2"      "fremsajo.com"    55903            "SHOW"
-120            0	    "BattleCore"       "fremsajo.com"    55904            "SHOW"
-19             0		"GameServerCS"     "fremsajo.com"    55919            "HIDE"
+20             0 		"GameServer"       "veg.sytes.net"    55901            "SHOW"
+21             0 		"GameServer1"      "veg.sytes.net"    55902            "SHOW"
+22             0 		"GameServer2"      "veg.sytes.net"    55903            "SHOW"
+120            0	    "BattleCore"       "veg.sytes.net"    55904            "SHOW"
+19             0		"GameServerCS"     "veg.sytes.net"    55919            "HIDE"
 end

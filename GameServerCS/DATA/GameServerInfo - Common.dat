@@ -145,14 +145,14 @@ ElfBufferDefenseConstB = 3
 ;==================================================
 ; Experience Settings
 ;==================================================
-AddExperienceRate_AL0 = 1000
-AddExperienceRate_AL1 = 1000
-AddExperienceRate_AL2 = 1000
-AddExperienceRate_AL3 = 1000
-AddMasterExperienceRate_AL0 = 1000
-AddMasterExperienceRate_AL1 = 1000
-AddMasterExperienceRate_AL2 = 1000
-AddMasterExperienceRate_AL3 = 1000
+AddExperienceRate_AL0 = 1
+AddExperienceRate_AL1 = 10
+AddExperienceRate_AL2 = 10
+AddExperienceRate_AL3 = 10
+AddMasterExperienceRate_AL0 = 400
+AddMasterExperienceRate_AL1 = 10
+AddMasterExperienceRate_AL2 = 10
+AddMasterExperienceRate_AL3 = 10
 MinMasterExperienceMonsterLevel_AL0 = 95
 MinMasterExperienceMonsterLevel_AL1 = 95
 MinMasterExperienceMonsterLevel_AL2 = 95
@@ -174,10 +174,10 @@ AddQuestExperienceRate_AL3 = 100
 ; Item Drop Settings
 ;==================================================
 ItemDropTime = 30
-ItemDropRate_AL0 = 40
-ItemDropRate_AL1 = 40
-ItemDropRate_AL2 = 40
-ItemDropRate_AL3 = 40
+ItemDropRate_AL0 = 60
+ItemDropRate_AL1 = 60
+ItemDropRate_AL2 = 60
+ItemDropRate_AL3 = 60
 
 ;==================================================
 ; Money Drop Settings

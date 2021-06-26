@@ -66,8 +66,8 @@ MaxItemOption = 7
 MaxIpConnection = 10
 PersonalCodeCheck = 0
 SetItemAcceptHarmonySwitch = 0
-HappyNewYears = 0
-MerryChristmas = 0
+HappyNewYears = 1
+MerryChristmas = 1
 ConvertsSimpleModeStatus = 1
 
 ;==================================================
@@ -82,7 +82,7 @@ UserAnnouncementSwitch = 1
 ;==================================================
 MonsterLifeRate = 100
 MonsterHealthBarSwitch = 1
-MonsterReturnTime = 4
+MonsterReturnTime = 3
 
 ;==================================================
 ; PK Settings
@@ -145,14 +145,14 @@ ElfBufferDefenseConstB = 3
 ;==================================================
 ; Experience Settings
 ;==================================================
-AddExperienceRate_AL0 = 1500
-AddExperienceRate_AL1 = 1500
-AddExperienceRate_AL2 = 1500
-AddExperienceRate_AL3 = 1500
+AddExperienceRate_AL0 = 2000
+AddExperienceRate_AL1 = 2000
+AddExperienceRate_AL2 = 2000
+AddExperienceRate_AL3 = 2000
 AddMasterExperienceRate_AL0 = 400
-AddMasterExperienceRate_AL1 = 10
-AddMasterExperienceRate_AL2 = 10
-AddMasterExperienceRate_AL3 = 10
+AddMasterExperienceRate_AL1 = 400
+AddMasterExperienceRate_AL2 = 400
+AddMasterExperienceRate_AL3 = 400
 MinMasterExperienceMonsterLevel_AL0 = 95
 MinMasterExperienceMonsterLevel_AL1 = 95
 MinMasterExperienceMonsterLevel_AL2 = 95
@@ -174,7 +174,7 @@ AddQuestExperienceRate_AL3 = 100
 ; Item Drop Settings
 ;==================================================
 ItemDropTime = 30
-ItemDropRate_AL0 = 60
+ItemDropRate_AL0 = 90
 ItemDropRate_AL1 = 60
 ItemDropRate_AL2 = 60
 ItemDropRate_AL3 = 60
@@ -224,17 +224,17 @@ MaxStatPoint_AL0 = 65000
 MaxStatPoint_AL1 = 65000
 MaxStatPoint_AL2 = 65000
 MaxStatPoint_AL3 = 65000
-DWLevelUpPoint = 5
-DKLevelUpPoint = 5
-FELevelUpPoint = 5
-MGLevelUpPoint = 7
-DLLevelUpPoint = 7
-SULevelUpPoint = 5
-RFLevelUpPoint = 7
-GLLevelUpPoint = 7
-RWLevelUpPoint = 5
-SLLevelUpPoint = 5
-GCLevelUpPoint = 5
+DWLevelUpPoint = 10
+DKLevelUpPoint = 10
+FELevelUpPoint = 10
+MGLevelUpPoint = 14
+DLLevelUpPoint = 14
+SULevelUpPoint = 10
+RFLevelUpPoint = 14
+GLLevelUpPoint = 14
+RWLevelUpPoint = 10
+SLLevelUpPoint = 10
+GCLevelUpPoint = 10
 PlusStatPoint = 1
 
 ;==================================================

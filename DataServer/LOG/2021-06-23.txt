@@ -13,3 +13,45 @@
 00:27:58 [ServerManager][0] AddServer (127.0.0.1)
 00:27:58 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
 00:27:59 [MainProc][2][Expire Mission Info][Restore] 2020-12-17 AM05:30
+01:31:06 [SocketManager] Server started at port [55960]
+01:31:07 [ServerManager][0] AddServer (127.0.0.1)
+01:31:07 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+01:31:07 [MainProc][2][Expire Mission Info][Restore] 2020-12-17 AM05:30
+11:50:50 [SocketManager] Server started at port [55960]
+11:50:51 [ServerManager][0] AddServer (127.0.0.1)
+11:50:51 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+11:50:51 [MainProc][2][Expire Mission Info][Restore] 2020-12-17 AM05:30
+12:40:23 [SocketManager] Server started at port [55960]
+12:40:23 [ServerManager][0] AddServer (127.0.0.1)
+12:40:23 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+12:40:24 [MainProc][2][Expire Mission Info][Restore] 2020-12-17 AM05:30
+13:17:19 [SocketManager] Server started at port [55960]
+13:17:20 [MainProc][2][Expire Mission Info][Restore] 2020-12-17 AM05:30
+13:17:21 [ServerManager][0] AddServer (127.0.0.1)
+13:17:21 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+14:36:42 [SocketManager] Server started at port [55960]
+14:36:42 [ServerManager][0] AddServer (127.0.0.1)
+14:36:42 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+14:36:43 [MainProc][2][Expire Mission Info][Restore] 2020-12-17 AM05:30
+15:00:33 [ServerManager][0] DelServer (127.0.0.1)
+15:00:59 [SocketManager] Server started at port [55960]
+15:00:59 [ServerManager][0] AddServer (127.0.0.1)
+15:00:59 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+15:01:00 [MainProc][2][Expire Mission Info][Restore] 2020-12-17 AM05:30
+15:03:18 [ServerManager][0] DelServer (127.0.0.1)
+15:03:43 [SocketManager] Server started at port [55960]
+15:03:43 [ServerManager][0] AddServer (127.0.0.1)
+15:03:43 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+15:03:44 [MainProc][2][Expire Mission Info][Restore] 2020-12-17 AM05:30
+21:06:42 [ServerManager][0] DelServer (127.0.0.1)
+21:07:19 [SocketManager] Server started at port [55960]
+21:07:20 [MainProc][2][Expire Mission Info][Restore] 2020-12-17 AM05:30
+21:11:01 [SocketManager] Server started at port [55960]
+21:11:02 [ServerManager][0] AddServer (127.0.0.1)
+21:11:02 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+21:11:02 [MainProc][2][Expire Mission Info][Restore] 2020-12-17 AM05:30
+23:24:19 [ServerManager][0] DelServer (127.0.0.1)
+23:24:53 [SocketManager] Server started at port [55960]
+23:24:54 [ServerManager][0] AddServer (127.0.0.1)
+23:24:54 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+23:24:54 [MainProc][2][Expire Mission Info][Restore] 2020-12-17 AM05:30
