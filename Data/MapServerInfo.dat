@@ -1,10 +1,10 @@
 0
 //ServerCode   MapServerGroup   InitSetVal   IpAddress          Port
-20	       0	        1	     S186.52.234.115	55901
-21	       0	        1	     S186.52.234.115	55902
-22	       0	        0	     S186.52.234.115 	55903
-120	       0	        1	     S186.52.234.115 	55904
-19	       0	        0	     S186.52.234.115	55919
+20	       0	        1	     Sfremsajo.com	55901
+21	       0	        1	     Sfremsajo.com	55902
+22	       0	        0	     Sfremsajo.com 	55903
+120	       0	        1	     Sfremsajo.com 	55904
+19	       0	        0	     Sfremsajo.com	55919
 end
 
 1

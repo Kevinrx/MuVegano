@@ -1,0 +1,506 @@
+16:26:44 [ServerInfo] CashShop loaded successfully
+16:26:44 [ServerInfo] ChaosMix loaded successfully
+16:26:44 [ServerInfo] Character loaded successfully
+16:26:44 [ServerInfo] Command loaded successfully
+16:26:44 [AntiDDoS] Status: 0
+16:26:45 [Language] Load English.xml language definition
+16:26:45 [ServerInfo] Common loaded successfully
+16:26:45 [ Crywolf ] State (0) -> NONE
+16:26:45 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+16:26:45 [ServerInfo] Event loaded successfully
+16:26:45 [ServerInfo] EventItemBag loaded successfully
+16:26:45 [ServerInfo] Hack loaded successfully
+16:26:45 [ServerInfo] Item loaded successfully
+16:26:46 [FereaBossZone][SummonMon] AddMonster fail!! [INDEX]:735
+16:26:46 [FereaBossZone][CrystalBallRegen] FAIL!!!
+16:26:46 [NixiesBoss][SummonMon] AddMonster fail!! [INDEX]:746
+16:26:46 [NixiesBoss][Regen] Regen Boss Nix. [-1], Attr:[4]
+16:26:46 [ServerInfo] Monster loaded successfully
+16:26:46 [ServerInfo] Custom loaded successfully
+16:26:46 TEST A 
+16:26:46 [ServerInfo] Move loaded successfully
+16:26:46 [ServerInfo] Quest loaded successfully
+16:26:46 [ServerInfo] Shop loaded successfully
+16:26:46 [ServerInfo] Skill loaded successfully
+16:26:46 [ServerInfo] Util loaded successfully
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1361 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:13 - Y:44 - Dir :3 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1795 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:57 - Y:39 - Dir :2 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1796 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:67 - Y:26 - Dir :0 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1797 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:69 - Y:36 - Dir :7 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1798 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:75 - Y:19 - Dir :2 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1799 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:80 - Y:33 - Dir :0 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1800 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:76 - Y:52 - Dir :6 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1802 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:80 - Y:10 - Dir :4 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1807 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:149 - Y:61 - Dir :3 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1812 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:177 - Y:31 - Dir :4 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1822 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:208 - Y:43 - Dir :3 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1824 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:22 - Y:99 - Dir :6 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1832 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:106 - Y:72 - Dir :5 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1840 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:156 - Y:80 - Dir :5 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1844 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:174 - Y:100 - Dir :5 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1846 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:177 - Y:81 - Dir :4 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1854 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:21 - Y:85 - Dir :7 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1856 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:28 - Y:85 - Dir :6 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1858 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:70 - Y:118 - Dir :6 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1863 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:101 - Y:86 - Dir :2 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1871 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:158 - Y:83 - Dir :1 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1873 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:177 - Y:86 - Dir :6 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1884 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:73 - Y:110 - Dir :7 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1890 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:122 - Y:131 - Dir :6 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1891 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:126 - Y:143 - Dir :7 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1898 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:202 - Y:133 - Dir :4 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1905 - Type:2 - MonsterClass:314 - Map:34 - Dis:30 - X:16 - Y:157 - Dir :4 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1906 - Type:2 - MonsterClass:314 - Map:34 - Dis:30 - X:31 - Y:155 - Dir :5 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1910 - Type:2 - MonsterClass:314 - Map:34 - Dis:30 - X:158 - Y:155 - Dir :4 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1915 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:33 - Y:174 - Dir :7 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1916 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:48 - Y:197 - Dir :7 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1924 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:98 - Y:183 - Dir :3 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1927 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:114 - Y:191 - Dir :1 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1932 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:162 - Y:206 - Dir :3 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1936 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:219 - Y:187 - Dir :3 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1938 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:82 - Y:200 - Dir :4 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1939 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:104 - Y:196 - Dir :3 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1940 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:115 - Y:184 - Dir :1 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1943 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:171 - Y:186 - Dir :0 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1944 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:215 - Y:195 - Dir :2 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1945 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:227 - Y:178 - Dir :1 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1946 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:16 - Y:167 - Dir :6 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1947 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:26 - Y:163 - Dir :0 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1948 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:39 - Y:168 - Dir :6 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1953 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:119 - Y:174 - Dir :5 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1955 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:147 - Y:175 - Dir :0 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1956 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:150 - Y:161 - Dir :7 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1957 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:170 - Y:228 - Dir :1 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1959 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:230 - Y:172 - Dir :1 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1960 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:57 - Y:219 - Dir :0 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1963 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:100 - Y:215 - Dir :7 - TX:0 - TY:0 - Element:0
+16:26:46 [gObjSetPosMonster][GetPosition] Location Error number:1966 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:118 - Y:219 - Dir :3 - TX:0 - TY:0 - Element:0
+16:26:46 [Blood Castle] (1) Sync Start Time. [93] min remain
+16:26:46 [Blood Castle] (1) SetState EMPTY
+16:26:46 [Blood Castle] (2) Sync Start Time. [93] min remain
+16:26:46 [Blood Castle] (2) SetState EMPTY
+16:26:46 [Blood Castle] (3) Sync Start Time. [93] min remain
+16:26:46 [Blood Castle] (3) SetState EMPTY
+16:26:46 [Blood Castle] (4) Sync Start Time. [93] min remain
+16:26:46 [Blood Castle] (4) SetState EMPTY
+16:26:46 [Blood Castle] (5) Sync Start Time. [93] min remain
+16:26:46 [Blood Castle] (5) SetState EMPTY
+16:26:46 [Blood Castle] (6) Sync Start Time. [93] min remain
+16:26:46 [Blood Castle] (6) SetState EMPTY
+16:26:46 [Blood Castle] (7) Sync Start Time. [93] min remain
+16:26:46 [Blood Castle] (7) SetState EMPTY
+16:26:46 [Blood Castle] (8) Sync Start Time. [93] min remain
+16:26:46 [Blood Castle] (8) SetState EMPTY
+16:26:46 [Castle Deep] Sync Start Time. [213] min remain
+16:26:46 [Castle Deep] SetState EMPTY
+16:26:46 [Chaos Castle] (1) Sync Start Time. [23] min remain
+16:26:46 [Chaos Castle] (1) SetState EMPTY
+16:26:46 [Chaos Castle] (2) Sync Start Time. [23] min remain
+16:26:46 [Chaos Castle] (2) SetState EMPTY
+16:26:46 [Chaos Castle] (3) Sync Start Time. [23] min remain
+16:26:46 [Chaos Castle] (3) SetState EMPTY
+16:26:46 [Chaos Castle] (4) Sync Start Time. [23] min remain
+16:26:46 [Chaos Castle] (4) SetState EMPTY
+16:26:46 [Chaos Castle] (5) Sync Start Time. [23] min remain
+16:26:46 [Chaos Castle] (5) SetState EMPTY
+16:26:46 [Chaos Castle] (6) Sync Start Time. [23] min remain
+16:26:46 [Chaos Castle] (6) SetState EMPTY
+16:26:46 [Chaos Castle] (7) Sync Start Time. [23] min remain
+16:26:46 [Chaos Castle] (7) SetState EMPTY
+16:26:46 [Chaos Castle Survival] SetState BLANK
+16:26:46 [Devil Square] (1) Sync Start Time. [3] min remain
+16:26:46 [Devil Square] (1) SetState EMPTY
+16:26:46 [Devil Square] (2) Sync Start Time. [3] min remain
+16:26:46 [Devil Square] (2) SetState EMPTY
+16:26:46 [Devil Square] (3) Sync Start Time. [3] min remain
+16:26:46 [Devil Square] (3) SetState EMPTY
+16:26:46 [Devil Square] (4) Sync Start Time. [3] min remain
+16:26:46 [Devil Square] (4) SetState EMPTY
+16:26:46 [Devil Square] (5) Sync Start Time. [3] min remain
+16:26:46 [Devil Square] (5) SetState EMPTY
+16:26:46 [Devil Square] (6) Sync Start Time. [3] min remain
+16:26:46 [Devil Square] (6) SetState EMPTY
+16:26:46 [Devil Square] (7) Sync Start Time. [3] min remain
+16:26:46 [Devil Square] (7) SetState EMPTY
+16:26:46 [AcheronGuardian] Sync Start Time. [609] min remain
+16:26:46 [ RAKLION ] State(0) -> END
+16:26:46 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+16:26:46 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+16:26:46 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+16:26:46 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:0][MissionInx0:2]
+16:26:46 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx0:0]
+16:26:46 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx1:4]
+16:26:46 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:2][MissionInx0:3]
+16:26:46 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx0:2]
+16:26:46 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx1:4]
+16:26:46 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:4][MissionInx0:0]
+16:26:46 [DGMonsterSoulConverterWeeklyMissionInfoRecv][Expire Mission Info] 2021-07-01 AM09:30
+16:26:47 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+16:26:47 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+16:26:47 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Start Date (2020-12-6)
+16:26:47 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Date (7-0-0)
+16:26:47 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule End Date (2020-12-13(0:0:0))
+16:26:47 [CastleSiege] CCastleSiege::Init() - START
+16:26:48 [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+16:26:48 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+16:26:52 [FreeChannelSwitch] [Add Server] ServerCode:20
+16:28:20 [ServerInfo] CashShop loaded successfully
+16:28:20 [ServerInfo] ChaosMix loaded successfully
+16:28:20 [ServerInfo] Character loaded successfully
+16:28:21 [ServerInfo] Command loaded successfully
+16:28:21 [AntiDDoS] Status: 0
+16:28:21 [Language] Load English.xml language definition
+16:28:21 [ServerInfo] Common loaded successfully
+16:28:21 [ Crywolf ] State (0) -> NONE
+16:28:21 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+16:28:21 [ServerInfo] Event loaded successfully
+16:28:21 [ServerInfo] EventItemBag loaded successfully
+16:28:21 [ServerInfo] Hack loaded successfully
+16:28:21 [ServerInfo] Item loaded successfully
+16:28:21 [FereaBossZone][SummonMon] AddMonster fail!! [INDEX]:735
+16:28:21 [FereaBossZone][CrystalBallRegen] FAIL!!!
+16:28:21 [NixiesBoss][SummonMon] AddMonster fail!! [INDEX]:746
+16:28:21 [NixiesBoss][Regen] Regen Boss Nix. [-1], Attr:[5]
+16:28:21 [ServerInfo] Monster loaded successfully
+16:28:21 [ServerInfo] Custom loaded successfully
+16:28:21 TEST A 
+16:28:21 [ServerInfo] Move loaded successfully
+16:28:21 [ServerInfo] Quest loaded successfully
+16:28:21 [ServerInfo] Shop loaded successfully
+16:28:22 [ServerInfo] Skill loaded successfully
+16:28:22 [ServerInfo] Util loaded successfully
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1361 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:11 - Y:41 - Dir :2 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1795 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:58 - Y:35 - Dir :3 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1796 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:67 - Y:23 - Dir :2 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1797 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:72 - Y:35 - Dir :2 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1798 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:75 - Y:17 - Dir :5 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1799 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:79 - Y:33 - Dir :4 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1800 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:75 - Y:54 - Dir :0 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1801 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:78 - Y:46 - Dir :6 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1802 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:85 - Y:10 - Dir :6 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1807 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:149 - Y:57 - Dir :2 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1812 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:177 - Y:32 - Dir :0 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1820 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:204 - Y:38 - Dir :4 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1824 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:25 - Y:98 - Dir :7 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1832 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:103 - Y:71 - Dir :3 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1844 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:170 - Y:99 - Dir :3 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1845 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:176 - Y:54 - Dir :3 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1854 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:24 - Y:87 - Dir :5 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1856 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:32 - Y:87 - Dir :4 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1858 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:71 - Y:117 - Dir :1 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1860 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:77 - Y:114 - Dir :4 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1861 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:80 - Y:101 - Dir :1 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1871 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:158 - Y:84 - Dir :7 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1873 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:176 - Y:86 - Dir :3 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1884 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:70 - Y:112 - Dir :1 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1886 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:81 - Y:109 - Dir :3 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1890 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:120 - Y:128 - Dir :2 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1891 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:125 - Y:144 - Dir :1 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1895 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:162 - Y:142 - Dir :4 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1897 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:205 - Y:129 - Dir :3 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1898 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:205 - Y:131 - Dir :0 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1905 - Type:2 - MonsterClass:314 - Map:34 - Dis:30 - X:18 - Y:157 - Dir :5 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1906 - Type:2 - MonsterClass:314 - Map:34 - Dis:30 - X:27 - Y:155 - Dir :0 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1910 - Type:2 - MonsterClass:314 - Map:34 - Dis:30 - X:158 - Y:156 - Dir :6 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1915 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:31 - Y:169 - Dir :4 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1916 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:50 - Y:193 - Dir :1 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1927 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:114 - Y:192 - Dir :1 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1932 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:161 - Y:204 - Dir :2 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1936 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:222 - Y:191 - Dir :3 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1938 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:81 - Y:202 - Dir :0 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1940 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:114 - Y:184 - Dir :5 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1943 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:174 - Y:187 - Dir :7 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1945 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:228 - Y:180 - Dir :0 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1946 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:17 - Y:166 - Dir :7 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1947 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:26 - Y:165 - Dir :3 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1950 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:64 - Y:237 - Dir :2 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1954 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:143 - Y:233 - Dir :3 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1955 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:142 - Y:172 - Dir :3 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1956 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:146 - Y:165 - Dir :7 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1959 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:232 - Y:172 - Dir :1 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1963 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:103 - Y:215 - Dir :5 - TX:0 - TY:0 - Element:0
+16:28:22 [gObjSetPosMonster][GetPosition] Location Error number:1966 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:113 - Y:222 - Dir :7 - TX:0 - TY:0 - Element:0
+16:28:22 [Blood Castle] (1) Sync Start Time. [91] min remain
+16:28:22 [Blood Castle] (1) SetState EMPTY
+16:28:22 [Blood Castle] (2) Sync Start Time. [91] min remain
+16:28:22 [Blood Castle] (2) SetState EMPTY
+16:28:22 [Blood Castle] (3) Sync Start Time. [91] min remain
+16:28:22 [Blood Castle] (3) SetState EMPTY
+16:28:22 [Blood Castle] (4) Sync Start Time. [91] min remain
+16:28:22 [Blood Castle] (4) SetState EMPTY
+16:28:22 [Blood Castle] (5) Sync Start Time. [91] min remain
+16:28:22 [Blood Castle] (5) SetState EMPTY
+16:28:22 [Blood Castle] (6) Sync Start Time. [91] min remain
+16:28:22 [Blood Castle] (6) SetState EMPTY
+16:28:22 [Blood Castle] (7) Sync Start Time. [91] min remain
+16:28:22 [Blood Castle] (7) SetState EMPTY
+16:28:22 [Blood Castle] (8) Sync Start Time. [91] min remain
+16:28:22 [Blood Castle] (8) SetState EMPTY
+16:28:22 [Castle Deep] Sync Start Time. [211] min remain
+16:28:22 [Castle Deep] SetState EMPTY
+16:28:22 [Chaos Castle] (1) Sync Start Time. [21] min remain
+16:28:22 [Chaos Castle] (1) SetState EMPTY
+16:28:22 [Chaos Castle] (2) Sync Start Time. [21] min remain
+16:28:22 [Chaos Castle] (2) SetState EMPTY
+16:28:22 [Chaos Castle] (3) Sync Start Time. [21] min remain
+16:28:22 [Chaos Castle] (3) SetState EMPTY
+16:28:22 [Chaos Castle] (4) Sync Start Time. [21] min remain
+16:28:22 [Chaos Castle] (4) SetState EMPTY
+16:28:22 [Chaos Castle] (5) Sync Start Time. [21] min remain
+16:28:22 [Chaos Castle] (5) SetState EMPTY
+16:28:22 [Chaos Castle] (6) Sync Start Time. [21] min remain
+16:28:22 [Chaos Castle] (6) SetState EMPTY
+16:28:22 [Chaos Castle] (7) Sync Start Time. [21] min remain
+16:28:22 [Chaos Castle] (7) SetState EMPTY
+16:28:22 [Chaos Castle Survival] SetState BLANK
+16:28:22 [Devil Square] (1) Sync Start Time. [1] min remain
+16:28:22 [Devil Square] (1) SetState EMPTY
+16:28:22 [Devil Square] (2) Sync Start Time. [1] min remain
+16:28:22 [Devil Square] (2) SetState EMPTY
+16:28:22 [Devil Square] (3) Sync Start Time. [1] min remain
+16:28:22 [Devil Square] (3) SetState EMPTY
+16:28:22 [Devil Square] (4) Sync Start Time. [1] min remain
+16:28:22 [Devil Square] (4) SetState EMPTY
+16:28:22 [Devil Square] (5) Sync Start Time. [1] min remain
+16:28:22 [Devil Square] (5) SetState EMPTY
+16:28:22 [Devil Square] (6) Sync Start Time. [1] min remain
+16:28:22 [Devil Square] (6) SetState EMPTY
+16:28:22 [Devil Square] (7) Sync Start Time. [1] min remain
+16:28:22 [Devil Square] (7) SetState EMPTY
+16:28:22 [AcheronGuardian] Sync Start Time. [607] min remain
+16:28:22 [ RAKLION ] State(0) -> END
+16:28:22 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+16:28:22 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+16:28:22 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+16:28:22 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:0][MissionInx0:2]
+16:28:22 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx0:0]
+16:28:22 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx1:4]
+16:28:22 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:2][MissionInx0:3]
+16:28:22 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx0:2]
+16:28:22 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx1:4]
+16:28:22 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:4][MissionInx0:0]
+16:28:22 [DGMonsterSoulConverterWeeklyMissionInfoRecv][Expire Mission Info] 2021-07-01 AM09:30
+16:28:22 [FreeChannelSwitch] [Add Server] ServerCode:20
+16:28:23 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+16:28:23 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+16:28:23 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Start Date (2021-6-26)
+16:28:23 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Date (7-0-0)
+16:28:23 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule End Date (2021-7-3(0:0:0))
+16:28:23 [CastleSiege] CCastleSiege::Init() - START
+16:28:23 SET SetState_REGSIEGE()
+16:28:23 LEFT : SEC(531097), SIEGE-DAY(2021-07-02 20:00:00)
+16:28:24 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+16:29:23 LEFT : SEC(531037), SIEGE-DAY(2021-07-02 20:00:00)
+16:30:00 [Devil Square] (1) SetState STAND
+16:30:00 [Devil Square] (2) SetState STAND
+16:30:00 [Devil Square] (3) SetState STAND
+16:30:00 [Devil Square] (4) SetState STAND
+16:30:00 [Devil Square] (5) SetState STAND
+16:30:00 [Devil Square] (6) SetState STAND
+16:30:00 [Devil Square] (7) SetState STAND
+16:30:01 [Devil Square] (1) Not enough users
+16:30:01 [Devil Square] (1) Sync Start Time. [239] min remain
+16:30:01 [Devil Square] (1) SetState EMPTY
+16:30:01 [Devil Square] (2) Not enough users
+16:30:01 [Devil Square] (2) Sync Start Time. [239] min remain
+16:30:01 [Devil Square] (2) SetState EMPTY
+16:30:01 [Devil Square] (3) Not enough users
+16:30:01 [Devil Square] (3) Sync Start Time. [239] min remain
+16:30:01 [Devil Square] (3) SetState EMPTY
+16:30:01 [Devil Square] (4) Not enough users
+16:30:01 [Devil Square] (4) Sync Start Time. [239] min remain
+16:30:01 [Devil Square] (4) SetState EMPTY
+16:30:01 [Devil Square] (5) Not enough users
+16:30:01 [Devil Square] (5) Sync Start Time. [239] min remain
+16:30:01 [Devil Square] (5) SetState EMPTY
+16:30:01 [Devil Square] (6) Not enough users
+16:30:01 [Devil Square] (6) Sync Start Time. [239] min remain
+16:30:01 [Devil Square] (6) SetState EMPTY
+16:30:01 [Devil Square] (7) Not enough users
+16:30:01 [Devil Square] (7) Sync Start Time. [239] min remain
+16:30:01 [Devil Square] (7) SetState EMPTY
+16:30:23 LEFT : SEC(530977), SIEGE-DAY(2021-07-02 20:00:00)
+16:31:23 LEFT : SEC(530917), SIEGE-DAY(2021-07-02 20:00:00)
+16:32:23 LEFT : SEC(530857), SIEGE-DAY(2021-07-02 20:00:00)
+16:33:23 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+16:33:23 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(512), MAXHP:400000, HP:400000, DF:0, RG:0)
+16:33:23 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(513), MAXHP:400000, HP:400000, DF:0, RG:0)
+16:33:23 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(514), MAXHP:400000, HP:400000, DF:0, RG:0)
+16:33:23 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(515), MAXHP:400000, HP:400000, DF:0, RG:0)
+16:33:23 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(516), MAXHP:500000, HP:500000, DF:0, RG:0)
+16:33:23 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(517), MAXHP:500000, HP:500000, DF:0, RG:0)
+16:33:23 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(518), MAXHP:500000, HP:500000, DF:0, RG:0)
+16:33:23 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(519), MAXHP:500000, HP:500000, DF:0, RG:0)
+16:33:23 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(520), MAXHP:500000, HP:500000, DF:0, RG:0)
+16:33:23 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(521), MAXHP:500000, HP:500000, DF:0, RG:0)
+16:33:23 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+16:33:23 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+16:33:23 LEFT : SEC(530797), SIEGE-DAY(2021-07-02 20:00:00)
+16:34:23 LEFT : SEC(530737), SIEGE-DAY(2021-07-02 20:00:00)
+16:35:23 LEFT : SEC(530677), SIEGE-DAY(2021-07-02 20:00:00)
+16:36:23 LEFT : SEC(530617), SIEGE-DAY(2021-07-02 20:00:00)
+16:51:42 [ServerInfo] CashShop loaded successfully
+16:51:42 [ServerInfo] ChaosMix loaded successfully
+16:51:42 [ServerInfo] Character loaded successfully
+16:51:43 [ServerInfo] Command loaded successfully
+16:51:43 [AntiDDoS] Status: 0
+16:51:43 [Language] Load English.xml language definition
+16:51:43 [ServerInfo] Common loaded successfully
+16:51:43 [ Crywolf ] State (0) -> NONE
+16:51:43 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+16:51:43 [ServerInfo] Event loaded successfully
+16:51:43 [ServerInfo] EventItemBag loaded successfully
+16:51:43 [ServerInfo] Hack loaded successfully
+16:51:43 [ServerInfo] Item loaded successfully
+16:51:44 [FereaBossZone][SummonMon] AddMonster fail!! [INDEX]:735
+16:51:44 [FereaBossZone][CrystalBallRegen] FAIL!!!
+16:51:44 [NixiesBoss][SummonMon] AddMonster fail!! [INDEX]:746
+16:51:44 [NixiesBoss][Regen] Regen Boss Nix. [-1], Attr:[4]
+16:51:44 [ServerInfo] Monster loaded successfully
+16:51:44 [ServerInfo] Custom loaded successfully
+16:51:44 TEST A 
+16:51:44 [ServerInfo] Move loaded successfully
+16:51:44 [ServerInfo] Quest loaded successfully
+16:51:44 [ServerInfo] Shop loaded successfully
+16:51:44 [ServerInfo] Skill loaded successfully
+16:51:44 [ServerInfo] Util loaded successfully
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1361 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:11 - Y:46 - Dir :1 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1795 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:61 - Y:37 - Dir :1 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1796 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:62 - Y:23 - Dir :4 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1797 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:67 - Y:38 - Dir :3 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1798 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:77 - Y:22 - Dir :3 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1799 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:77 - Y:35 - Dir :7 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1801 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:81 - Y:45 - Dir :2 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1802 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:86 - Y:8 - Dir :4 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1807 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:148 - Y:59 - Dir :3 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1812 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:174 - Y:34 - Dir :5 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1824 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:21 - Y:101 - Dir :2 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1832 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:106 - Y:69 - Dir :4 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1840 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:157 - Y:81 - Dir :4 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1845 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:177 - Y:52 - Dir :5 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1854 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:18 - Y:85 - Dir :0 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1856 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:31 - Y:89 - Dir :4 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1858 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:69 - Y:112 - Dir :0 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1860 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:80 - Y:115 - Dir :5 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1865 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:119 - Y:117 - Dir :5 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1871 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:154 - Y:86 - Dir :7 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1873 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:175 - Y:91 - Dir :7 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1884 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:71 - Y:107 - Dir :2 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1885 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:73 - Y:142 - Dir :1 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1890 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:124 - Y:131 - Dir :3 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1891 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:124 - Y:145 - Dir :5 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1893 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:157 - Y:101 - Dir :3 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1897 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:206 - Y:129 - Dir :0 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1898 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:201 - Y:128 - Dir :4 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1900 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:218 - Y:108 - Dir :0 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1904 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:243 - Y:128 - Dir :5 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1905 - Type:2 - MonsterClass:314 - Map:34 - Dis:30 - X:15 - Y:159 - Dir :7 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1906 - Type:2 - MonsterClass:314 - Map:34 - Dis:30 - X:27 - Y:155 - Dir :1 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1915 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:33 - Y:174 - Dir :3 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1916 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:50 - Y:192 - Dir :6 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1924 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:103 - Y:183 - Dir :6 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1936 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:221 - Y:192 - Dir :0 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1938 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:81 - Y:199 - Dir :0 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1939 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:102 - Y:195 - Dir :3 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1940 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:117 - Y:181 - Dir :6 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1941 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:146 - Y:181 - Dir :3 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1943 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:176 - Y:183 - Dir :0 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1944 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:213 - Y:190 - Dir :0 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1945 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:229 - Y:177 - Dir :4 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1946 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:11 - Y:162 - Dir :5 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1947 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:22 - Y:165 - Dir :6 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1950 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:62 - Y:237 - Dir :4 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1955 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:145 - Y:176 - Dir :3 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1956 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:148 - Y:164 - Dir :5 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1958 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:180 - Y:164 - Dir :1 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1959 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:233 - Y:171 - Dir :1 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1963 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:103 - Y:218 - Dir :7 - TX:0 - TY:0 - Element:0
+16:51:44 [gObjSetPosMonster][GetPosition] Location Error number:1966 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:118 - Y:220 - Dir :3 - TX:0 - TY:0 - Element:0
+16:51:44 [Blood Castle] (1) Sync Start Time. [68] min remain
+16:51:44 [Blood Castle] (1) SetState EMPTY
+16:51:44 [Blood Castle] (2) Sync Start Time. [68] min remain
+16:51:44 [Blood Castle] (2) SetState EMPTY
+16:51:44 [Blood Castle] (3) Sync Start Time. [68] min remain
+16:51:44 [Blood Castle] (3) SetState EMPTY
+16:51:44 [Blood Castle] (4) Sync Start Time. [68] min remain
+16:51:44 [Blood Castle] (4) SetState EMPTY
+16:51:44 [Blood Castle] (5) Sync Start Time. [68] min remain
+16:51:44 [Blood Castle] (5) SetState EMPTY
+16:51:44 [Blood Castle] (6) Sync Start Time. [68] min remain
+16:51:44 [Blood Castle] (6) SetState EMPTY
+16:51:44 [Blood Castle] (7) Sync Start Time. [68] min remain
+16:51:44 [Blood Castle] (7) SetState EMPTY
+16:51:44 [Blood Castle] (8) Sync Start Time. [68] min remain
+16:51:44 [Blood Castle] (8) SetState EMPTY
+16:51:44 [Castle Deep] Sync Start Time. [188] min remain
+16:51:44 [Castle Deep] SetState EMPTY
+16:51:44 [Chaos Castle] (1) Sync Start Time. [21] min remain
+16:51:44 [Chaos Castle] (1) SetState EMPTY
+16:51:44 [Chaos Castle] (2) Sync Start Time. [21] min remain
+16:51:44 [Chaos Castle] (2) SetState EMPTY
+16:51:44 [Chaos Castle] (3) Sync Start Time. [21] min remain
+16:51:44 [Chaos Castle] (3) SetState EMPTY
+16:51:44 [Chaos Castle] (4) Sync Start Time. [21] min remain
+16:51:44 [Chaos Castle] (4) SetState EMPTY
+16:51:44 [Chaos Castle] (5) Sync Start Time. [21] min remain
+16:51:44 [Chaos Castle] (5) SetState EMPTY
+16:51:44 [Chaos Castle] (6) Sync Start Time. [21] min remain
+16:51:44 [Chaos Castle] (6) SetState EMPTY
+16:51:44 [Chaos Castle] (7) Sync Start Time. [21] min remain
+16:51:44 [Chaos Castle] (7) SetState EMPTY
+16:51:44 [Chaos Castle Survival] SetState BLANK
+16:51:44 [Devil Square] (1) Sync Start Time. [218] min remain
+16:51:44 [Devil Square] (1) SetState EMPTY
+16:51:44 [Devil Square] (2) Sync Start Time. [218] min remain
+16:51:44 [Devil Square] (2) SetState EMPTY
+16:51:44 [Devil Square] (3) Sync Start Time. [218] min remain
+16:51:44 [Devil Square] (3) SetState EMPTY
+16:51:44 [Devil Square] (4) Sync Start Time. [218] min remain
+16:51:44 [Devil Square] (4) SetState EMPTY
+16:51:44 [Devil Square] (5) Sync Start Time. [218] min remain
+16:51:44 [Devil Square] (5) SetState EMPTY
+16:51:44 [Devil Square] (6) Sync Start Time. [218] min remain
+16:51:44 [Devil Square] (6) SetState EMPTY
+16:51:44 [Devil Square] (7) Sync Start Time. [218] min remain
+16:51:44 [Devil Square] (7) SetState EMPTY
+16:51:44 [AcheronGuardian] Sync Start Time. [584] min remain
+16:51:44 [ RAKLION ] State(0) -> END
+16:51:44 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+16:51:44 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+16:51:44 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+16:51:44 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:0][MissionInx0:2]
+16:51:44 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx0:0]
+16:51:44 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx1:4]
+16:51:44 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:2][MissionInx0:3]
+16:51:44 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx0:2]
+16:51:44 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx1:4]
+16:51:44 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:4][MissionInx0:0]
+16:51:44 [DGMonsterSoulConverterWeeklyMissionInfoRecv][Expire Mission Info] 2021-07-01 AM09:30
+16:51:45 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+16:51:45 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+16:51:45 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Start Date (2021-6-25)
+16:51:45 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Date (7-0-0)
+16:51:45 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule End Date (2021-7-2(0:0:0))
+16:51:45 [CastleSiege] CCastleSiege::Init() - START
+16:51:45 SET SetState_REGSIEGE()
+16:51:45 LEFT : SEC(443295), SIEGE-DAY(2021-07-01 20:00:00)
+16:51:46 [FreeChannelSwitch] [Add Server] ServerCode:20
+16:51:46 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+16:52:45 LEFT : SEC(443235), SIEGE-DAY(2021-07-01 20:00:00)
+16:53:45 LEFT : SEC(443175), SIEGE-DAY(2021-07-01 20:00:00)
+16:54:45 LEFT : SEC(443115), SIEGE-DAY(2021-07-01 20:00:00)
+16:55:45 LEFT : SEC(443055), SIEGE-DAY(2021-07-01 20:00:00)
+16:56:45 [CastleSiege] CCastleSiege::StoreDbNpc() - << START >>
+16:56:45 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:1(512), MAXHP:400000, HP:400000, DF:0, RG:0)
+16:56:45 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:2(513), MAXHP:400000, HP:400000, DF:0, RG:0)
+16:56:45 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:3(514), MAXHP:400000, HP:400000, DF:0, RG:0)
+16:56:45 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:283, IDX:4(515), MAXHP:400000, HP:400000, DF:0, RG:0)
+16:56:45 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:1(516), MAXHP:500000, HP:500000, DF:0, RG:0)
+16:56:45 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:2(517), MAXHP:500000, HP:500000, DF:0, RG:0)
+16:56:45 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:3(518), MAXHP:500000, HP:500000, DF:0, RG:0)
+16:56:45 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:4(519), MAXHP:500000, HP:500000, DF:0, RG:0)
+16:56:45 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:5(520), MAXHP:500000, HP:500000, DF:0, RG:0)
+16:56:45 [CastleSiege] CCastleSiege::StoreDbNpc() NPC INFO (CLS:277, IDX:6(521), MAXHP:500000, HP:500000, DF:0, RG:0)
+16:56:45 [CastleSiege] CCastleSiege::StoreDbNpc() - << END >>
+16:56:45 [CastleSiege] [0x89] GS_DGAnsCastleNpcUpdate() - Npc Data Update Result : 'SUCCEED'
+16:56:46 LEFT : SEC(442995), SIEGE-DAY(2021-07-01 20:00:01)

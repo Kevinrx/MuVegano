@@ -1,0 +1,2 @@
+03:40:29 Could not connect to database
+03:41:07 [SocketManager] Server started at port [55961]

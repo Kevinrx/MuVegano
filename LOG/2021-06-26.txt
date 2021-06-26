@@ -1,0 +1,10 @@
+04:27:22 [SocketManager] Server started at port [44405]
+04:27:22 Could not connect to database
+04:27:23 [Connection] connect() failed with error: 10061
+04:27:34 [Connection] connect() failed with error: 10061
+04:27:44 [Connection] connect() failed with error: 10061
+04:27:54 [Connection] connect() failed with error: 10061
+16:01:26 [SocketManager] Server started at port [44405]
+16:01:26 Could not connect to database
+16:01:27 [Connection] connect() failed with error: 10061
+16:01:38 [Connection] connect() failed with error: 10061
