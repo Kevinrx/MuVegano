@@ -1,0 +1,10 @@
+14:46:10 [ServerManager][0] DelServer (127.0.0.1)
+14:49:46 [SocketManager] Server started at port [55960]
+14:49:56 [MainProc][2][Expire Mission Info][Restore] 2021-07-01 AM09:30
+14:50:09 [ServerManager][0] AddServer (127.0.0.1)
+14:50:09 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+14:50:18 [ServerManager][1] AddServer (127.0.0.1)
+14:50:18 [ServerManager][1] ServerInfo (MuDevs) (55919) (19)
+15:46:32 [ServerManager][0] DelServer (127.0.0.1)
+15:47:12 [ServerManager][0] AddServer (127.0.0.1)
+15:47:12 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)

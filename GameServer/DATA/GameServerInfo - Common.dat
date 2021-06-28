@@ -18,7 +18,7 @@ IsArcaWarServer = 0
 IsMarketServer = 0
 IsBattleCoreServer = 0
 BattleCoreNotice = 0
-IsInstanceServer = 0
+IsInstanceServer = 1
 
 ;==================================================
 ; DB Settings

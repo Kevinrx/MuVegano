@@ -1,0 +1,10 @@
+04:16:50 [ServerManager][0] DelServer (127.0.0.1)
+04:22:18 [SocketManager] Server started at port [55960]
+04:22:28 [MainProc][2][Expire Mission Info][Restore] 2021-07-01 AM09:30
+04:22:34 [ServerManager][0] AddServer (127.0.0.1)
+04:22:34 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+04:22:39 [ServerManager][1] AddServer (127.0.0.1)
+04:22:39 [ServerManager][1] ServerInfo (MuDevs) (55919) (19)
+17:36:03 UPDATE T_FriendMail SET Memo=?,Photo=? WHERE MemoIndex=11 AND GUID=28
+17:36:03 [QueryManager] State (22001), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]String or binary data would be truncated.
+17:36:03 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated.

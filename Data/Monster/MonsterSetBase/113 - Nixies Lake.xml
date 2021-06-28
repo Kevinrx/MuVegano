@@ -109,6 +109,12 @@
 		<Config Class="745" Range="30" BeginPosX="135" BeginPosY="151" EndPosX="148" EndPosY="165" Direction="-1" Quantity="2" Element="3" /> <!-- "Vasuki" -->
 		<Config Class="745" Range="30" BeginPosX="130" BeginPosY="140" EndPosX="140" EndPosY="162" Direction="-1" Quantity="2" Element="3" /> <!-- "Vasuki" -->
 		<Config Class="745" Range="30" BeginPosX="90" BeginPosY="174" EndPosX="99" EndPosY="183" Direction="-1" Quantity="2" Element="3" /> <!-- "Vasuki" -->
+
+		<Config Class="745" Range="5" BeginPosX="59" BeginPosY="131" EndPosX="59" EndPosY="131" Direction="-1" Quantity="20" Element="1" /> <!-- "Vasuki" -->
+		<Config Class="744" Range="5" BeginPosX="58" BeginPosY="130" EndPosX="58" EndPosY="130" Direction="-1" Quantity="20" Element="2" /> <!-- "Bass" -->
+
+		<Config Class="745" Range="5" BeginPosX="86" BeginPosY="110" EndPosX="86" EndPosY="110" Direction="-1" Quantity="20" Element="1" /> <!-- "Vasuki" -->
+		<Config Class="744" Range="5" BeginPosX="85" BeginPosY="109" EndPosX="85" EndPosY="109" Direction="-1" Quantity="20" Element="2" /> <!-- "Bass" -->
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<MONSTER>

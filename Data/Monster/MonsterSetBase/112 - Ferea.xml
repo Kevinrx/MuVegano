@@ -116,9 +116,13 @@
 		
 		<Config Class="730" Range="3" BeginPosX="205" BeginPosY="116" EndPosX="208" EndPosY="120" Direction="-1" Quantity="20" Element="0" /> <!-- "Ferea Knight" -->
 		<Config Class="731" Range="3" BeginPosX="208" BeginPosY="120" EndPosX="205" EndPosY="116" Direction="-1" Quantity="20" Element="0" /> <!-- "Ferea Archer" -->
-		<Config Class="7" Range="3" BeginPosX="192" BeginPosY="126" EndPosX="194" EndPosY="128" Direction="-1" Quantity="25" Element="0" /> <!-- "Giant" -->
 		<Config Class="730" Range="3" BeginPosX="195" BeginPosY="102" EndPosX="198" EndPosY="105" Direction="-1" Quantity="20" Element="0" /> <!-- "Ferea Knight" -->
 		<Config Class="731" Range="3" BeginPosX="195" BeginPosY="100" EndPosX="198" EndPosY="103" Direction="-1" Quantity="20" Element="0" /> <!-- "Ferea Archer" -->
+
+		<Config Class="730" Range="3" BeginPosX="209" BeginPosY="175" EndPosX="208" EndPosY="174" Direction="-1" Quantity="20" Element="0" /> <!-- "Ferea Knight" -->
+		<Config Class="731" Range="3" BeginPosX="209" BeginPosY="175" EndPosX="205" EndPosY="174" Direction="-1" Quantity="20" Element="0" /> <!-- "Ferea Archer" -->
+
+		
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<MONSTER>

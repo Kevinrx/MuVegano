@@ -497,3 +497,15 @@
 16:51:28 [ServerList] JoinServer online
 16:51:40 [ServerList] GameServer online (GameServer) (20)
 16:51:45 [ServerList] GameServer online (GameServerCS) (19)
+17:00:06 [SocketManager] Server started at port [44405]
+17:00:06 [ServerList] ServerList loaded successfully
+17:00:07 [Connection] connect() failed with error: 10061
+17:00:13 [ServerList] JoinServer online
+17:00:20 [ServerList] GameServer online (GameServer) (20)
+17:00:30 [ServerList] GameServer online (GameServerCS) (19)
+20:54:56 [SocketManager] Server started at port [44405]
+20:54:57 [ServerList] ServerList loaded successfully
+20:54:58 [Connection] connect() failed with error: 10061
+20:55:03 [ServerList] JoinServer online
+20:55:09 [ServerList] GameServer online (GameServer) (20)
+20:55:15 [ServerList] GameServer online (GameServerCS) (19)
