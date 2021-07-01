@@ -38,6 +38,9 @@
 	
 	<Config Class="869" Range="30" BeginPosX="124" BeginPosY="32" EndPosX="125" EndPosY="36" Direction="-1" Quantity="20" Element="5" /> <!-- "Temple Gargoyle" -->
 	<Config Class="870" Range="30" BeginPosX="124" BeginPosY="32" EndPosX="125" EndPosY="36" Direction="-1" Quantity="20" Element="1" /> <!-- "(Elite) Temple Ogre" -->
+
+	<Config Class="869" Range="5" BeginPosX="76" BeginPosY="37" EndPosX="76" EndPosY="37" Direction="-1" Quantity="20" Element="5" /> <!-- "Temple Gargoyle" -->
+	<Config Class="867" Range="5" BeginPosX="74" BeginPosY="35" EndPosX="74" EndPosY="35" Direction="-1" Quantity="20" Element="1" /> <!-- "(Elite) Temple Ogre" -->
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<MONSTER>

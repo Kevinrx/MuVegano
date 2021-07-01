@@ -42,6 +42,8 @@
 
 		<Config Class="811" Range="4" BeginPosX="193" BeginPosY="68" EndPosX="193" EndPosY="68" Direction="-1" Quantity="20" Element="1" /> <!-- "Mine Carrier" -->
 		<Config Class="815" Range="6" BeginPosX="194" BeginPosY="69" EndPosX="194" EndPosY="69" Direction="-1" Quantity="20" Element="1" /> <!-- "Dead Shoveler" -->
+		<Config Class="814" Range="6" BeginPosX="194" BeginPosY="69" EndPosX="194" EndPosY="69" Direction="-1" Quantity="20" Element="1" /> <!-- "Dead Digger" -->
+		<Config Class="813" Range="6" BeginPosX="194" BeginPosY="69" EndPosX="194" EndPosY="69" Direction="-1" Quantity="20" Element="1" /> <!-- "Mine Driller" -->
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<MONSTER>

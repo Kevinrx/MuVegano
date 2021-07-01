@@ -1,5 +1,6 @@
 //Index   Level   Grade   Option0   Option1   Option2   Option3   Option4   Option5   Option6   Duration   MapNumber   MonsterClass   MonsterLevelMin   MonsterLevelMax   DropRate   Comment
 6159      0       0       *         *         *         *         *         *         *         0          *           *              12                *                 2000       //Jewel of Chaos
+6159      0       0       *         *         *         *         *         *         *         0          113         *              12                *                 4000       //Jewel of Chaos
 6176      0       0       *         *         *         *         *         *         *         0          *           *              12                49                0          //Box of Red Ribbon
 6177      0       0       *         *         *         *         *         *         *         0          *           *              50                69                0          //Box of Green Ribbon
 6178      0       0       *         *         *         *         *         *         *         0          *           *              70                97                0          //Box of Blue Ribbon
@@ -123,7 +124,9 @@
 7179      7       0       *         *         *         *         *         *         *         0          *           *              50                69                0          //Box of Heaven
 7179      13      0       *         *         *         *         *         *         *         0          *           *              50                69                0          //Blue Heart
 7181      0       0       *         *         *         *         *         *         *         0          *           *              25                *                 5000       //Jewel of Bless
+7181      0       0       *         *         *         *         *         *         *         0          113         *              25                *                 10000      //Jewel of Bless
 7182      0       0       *         *         *         *         *         *         *         0          *           *              25                *                 5000       //Jewel of Soul
+7182      0       0       *         *         *         *         *         *         *         0          113         *              25                *                 10000      //Jewel of Soul
 7184      0       0       *         *         *         *         *         *         *         0          *           *              46                *                 3000       //Jewel of Life      
 7185      1       0       *         *         *         *         *         *         *         0          *           *              1                 32                1000       //Devil's Eye 1
 7185      2       0       *         *         *         *         *         *         *         0          *           *              33                45                1000       //Devil's Eye 2
@@ -141,6 +144,7 @@
 7186      7       0       *         *         *         *         *         *         *         0          *           *              85                150               1000       //Devil's Key 7
 7189      3       0       *         *         *         *         *         *         *         0          *           *              25                150               3000       //Sign of the Lord
 7190      0       0       *         *         *         *         *         *         *         0          *           *              46                *                 1000       //Jewel of Creation
+7190      0       0       *         *         *         *         *         *         *         0          113         *              46                *                 2000       //Jewel of Creation
 7197      1       0       *         *         *         *         *         *         *         0          *           *              25                46                1000       //Symbol of Kundun 1
 7197      2       0       *         *         *         *         *         *         *         0          *           *              47                65                1000       //Symbol of Kundun 2
 7197      3       0       *         *         *         *         *         *         *         0          *           *              66                77                1000       //Symbol of Kundun 3
