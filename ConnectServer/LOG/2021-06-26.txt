@@ -1,0 +1,511 @@
+02:23:37 [SocketManager] Server started at port [44405]
+02:23:37 Could not connect to database
+02:23:38 [Connection] connect() failed with error: 10061
+02:23:55 [SocketManager] Server started at port [44405]
+02:24:13 Could not connect to database
+02:24:14 [Connection] connect() failed with error: 10061
+02:24:25 [Connection] connect() failed with error: 10061
+02:24:35 [Connection] connect() failed with error: 10061
+02:24:45 [Connection] connect() failed with error: 10061
+02:24:55 [Connection] connect() failed with error: 10061
+02:25:05 [Connection] connect() failed with error: 10061
+02:25:15 [Connection] connect() failed with error: 10061
+02:25:25 [Connection] connect() failed with error: 10061
+02:25:35 [Connection] connect() failed with error: 10061
+02:25:45 [Connection] connect() failed with error: 10061
+02:25:55 [Connection] connect() failed with error: 10061
+02:26:05 [Connection] connect() failed with error: 10061
+02:26:15 [Connection] connect() failed with error: 10061
+02:26:25 [Connection] connect() failed with error: 10061
+02:26:35 [Connection] connect() failed with error: 10061
+02:26:45 [Connection] connect() failed with error: 10061
+02:26:55 [Connection] connect() failed with error: 10061
+02:27:05 [Connection] connect() failed with error: 10061
+02:27:15 [Connection] connect() failed with error: 10061
+02:27:25 [Connection] connect() failed with error: 10061
+02:27:35 [Connection] connect() failed with error: 10061
+02:27:46 [Connection] connect() failed with error: 10061
+02:27:55 [Connection] connect() failed with error: 10061
+02:28:06 [Connection] connect() failed with error: 10061
+02:28:15 [Connection] connect() failed with error: 10061
+02:28:26 [Connection] connect() failed with error: 10061
+02:28:36 [Connection] connect() failed with error: 10061
+02:28:46 [Connection] connect() failed with error: 10061
+02:28:56 [Connection] connect() failed with error: 10061
+02:29:06 [Connection] connect() failed with error: 10061
+02:29:16 [Connection] connect() failed with error: 10061
+02:29:26 [Connection] connect() failed with error: 10061
+02:29:36 [Connection] connect() failed with error: 10061
+02:29:46 [Connection] connect() failed with error: 10061
+02:29:56 [Connection] connect() failed with error: 10061
+02:30:00 [SocketManager] Server started at port [44405]
+02:30:18 Could not connect to database
+02:30:19 [Connection] connect() failed with error: 10061
+02:30:30 [Connection] connect() failed with error: 10061
+02:30:40 [Connection] connect() failed with error: 10061
+02:30:50 [Connection] connect() failed with error: 10061
+02:31:00 [Connection] connect() failed with error: 10061
+02:31:10 [Connection] connect() failed with error: 10061
+02:31:20 [Connection] connect() failed with error: 10061
+02:31:30 [Connection] connect() failed with error: 10061
+02:31:40 [Connection] connect() failed with error: 10061
+02:31:50 [Connection] connect() failed with error: 10061
+02:32:00 [Connection] connect() failed with error: 10061
+02:32:10 [Connection] connect() failed with error: 10061
+02:32:20 [Connection] connect() failed with error: 10061
+02:32:30 [Connection] connect() failed with error: 10061
+02:32:54 [SocketManager] Server started at port [44405]
+02:33:12 Could not connect to database
+02:33:13 [Connection] connect() failed with error: 10061
+02:33:24 [Connection] connect() failed with error: 10061
+02:33:34 [Connection] connect() failed with error: 10061
+02:33:44 [Connection] connect() failed with error: 10061
+02:33:54 [Connection] connect() failed with error: 10061
+02:34:04 [Connection] connect() failed with error: 10061
+02:34:05 [ServerList] ServerList loaded successfully
+02:34:14 [Connection] connect() failed with error: 10061
+02:34:17 [ServerList] ServerList loaded successfully
+02:34:23 [ServerList] ServerList loaded successfully
+02:34:24 [Connection] connect() failed with error: 10061
+02:34:34 [Connection] connect() failed with error: 10061
+02:34:44 [Connection] connect() failed with error: 10061
+02:35:08 [SocketManager] Server started at port [44405]
+02:35:25 Could not connect to database
+02:35:26 [Connection] connect() failed with error: 10061
+02:35:37 [Connection] connect() failed with error: 10061
+02:35:47 [Connection] connect() failed with error: 10061
+02:35:57 [Connection] connect() failed with error: 10061
+02:36:10 [SocketManager] Server started at port [44405]
+02:36:28 Could not connect to database
+02:36:29 [Connection] connect() failed with error: 10061
+02:36:40 [Connection] connect() failed with error: 10061
+02:36:50 [Connection] connect() failed with error: 10061
+02:37:00 [Connection] connect() failed with error: 10061
+02:37:10 [Connection] connect() failed with error: 10061
+02:37:20 [Connection] connect() failed with error: 10061
+02:37:30 [Connection] connect() failed with error: 10061
+02:37:40 [Connection] connect() failed with error: 10061
+02:37:50 [Connection] connect() failed with error: 10061
+02:38:00 [Connection] connect() failed with error: 10061
+02:38:10 [Connection] connect() failed with error: 10061
+02:38:20 [Connection] connect() failed with error: 10061
+02:38:30 [Connection] connect() failed with error: 10061
+02:39:51 [SocketManager] Server started at port [44405]
+02:40:09 Could not connect to database
+02:40:10 [Connection] connect() failed with error: 10061
+02:40:21 [Connection] connect() failed with error: 10061
+02:40:31 [Connection] connect() failed with error: 10061
+02:40:41 [Connection] connect() failed with error: 10061
+02:40:51 [Connection] connect() failed with error: 10061
+02:41:01 [Connection] connect() failed with error: 10061
+02:41:11 [Connection] connect() failed with error: 10061
+02:41:21 [Connection] connect() failed with error: 10061
+02:41:31 [Connection] connect() failed with error: 10061
+02:41:41 [Connection] connect() failed with error: 10061
+02:41:51 [Connection] connect() failed with error: 10061
+02:42:01 [Connection] connect() failed with error: 10061
+02:42:11 [Connection] connect() failed with error: 10061
+02:42:21 [Connection] connect() failed with error: 10061
+02:42:31 [Connection] connect() failed with error: 10061
+02:42:41 [Connection] connect() failed with error: 10061
+02:42:51 [Connection] connect() failed with error: 10061
+02:43:01 [Connection] connect() failed with error: 10061
+02:43:11 [Connection] connect() failed with error: 10061
+02:43:21 [Connection] connect() failed with error: 10061
+02:43:31 [Connection] connect() failed with error: 10061
+02:43:41 [Connection] connect() failed with error: 10061
+02:43:51 [Connection] connect() failed with error: 10061
+02:44:01 [Connection] connect() failed with error: 10061
+02:44:11 [Connection] connect() failed with error: 10061
+02:44:21 [Connection] connect() failed with error: 10061
+02:44:31 [Connection] connect() failed with error: 10061
+02:44:41 [Connection] connect() failed with error: 10061
+02:44:51 [Connection] connect() failed with error: 10061
+02:45:01 [Connection] connect() failed with error: 10061
+02:45:11 [Connection] connect() failed with error: 10061
+02:45:21 [Connection] connect() failed with error: 10061
+02:45:31 [Connection] connect() failed with error: 10061
+02:45:41 [Connection] connect() failed with error: 10061
+02:45:51 [Connection] connect() failed with error: 10061
+02:46:01 [Connection] connect() failed with error: 10061
+02:46:11 [Connection] connect() failed with error: 10061
+02:46:21 [Connection] connect() failed with error: 10061
+02:46:31 [Connection] connect() failed with error: 10061
+02:46:41 [Connection] connect() failed with error: 10061
+02:46:51 [Connection] connect() failed with error: 10061
+02:47:01 [Connection] connect() failed with error: 10061
+02:47:11 [Connection] connect() failed with error: 10061
+02:47:21 [Connection] connect() failed with error: 10061
+02:47:31 [Connection] connect() failed with error: 10061
+02:47:41 [Connection] connect() failed with error: 10061
+02:47:51 [Connection] connect() failed with error: 10061
+02:48:01 [Connection] connect() failed with error: 10061
+02:48:11 [Connection] connect() failed with error: 10061
+02:48:21 [Connection] connect() failed with error: 10061
+02:48:31 [Connection] connect() failed with error: 10061
+02:48:37 [SocketManager] Server started at port [44405]
+02:48:55 Could not connect to database
+02:48:56 [Connection] connect() failed with error: 10061
+02:49:07 [Connection] connect() failed with error: 10061
+02:50:42 [SocketManager] Server started at port [44405]
+02:51:00 Could not connect to database
+02:51:01 [Connection] connect() failed with error: 10061
+02:51:12 [Connection] connect() failed with error: 10061
+02:51:22 [Connection] connect() failed with error: 10061
+02:51:32 [Connection] connect() failed with error: 10061
+02:51:49 [SocketManager] Server started at port [44405]
+02:52:07 Could not connect to database
+02:52:08 [Connection] connect() failed with error: 10061
+02:52:19 [Connection] connect() failed with error: 10061
+02:52:29 [Connection] connect() failed with error: 10061
+02:52:39 [Connection] connect() failed with error: 10061
+02:52:49 [Connection] connect() failed with error: 10061
+02:52:59 [Connection] connect() failed with error: 10061
+02:53:09 [Connection] connect() failed with error: 10061
+02:53:19 [Connection] connect() failed with error: 10061
+02:53:29 [Connection] connect() failed with error: 10061
+02:53:39 [Connection] connect() failed with error: 10061
+02:53:49 [Connection] connect() failed with error: 10061
+02:53:59 [Connection] connect() failed with error: 10061
+02:54:09 [Connection] connect() failed with error: 10061
+02:54:19 [Connection] connect() failed with error: 10061
+02:54:46 [SocketManager] Server started at port [44405]
+02:55:04 Could not connect to database
+02:55:05 [Connection] connect() failed with error: 10061
+02:55:16 [Connection] connect() failed with error: 10061
+02:55:26 [Connection] connect() failed with error: 10061
+02:55:36 [Connection] connect() failed with error: 10061
+02:55:46 [Connection] connect() failed with error: 10061
+02:56:41 [SocketManager] Server started at port [44405]
+02:56:59 Could not connect to database
+02:57:00 [Connection] connect() failed with error: 10061
+02:57:11 [Connection] connect() failed with error: 10061
+02:57:21 [Connection] connect() failed with error: 10061
+02:57:31 [Connection] connect() failed with error: 10061
+02:57:41 [Connection] connect() failed with error: 10061
+02:57:51 [Connection] connect() failed with error: 10061
+02:58:01 [Connection] connect() failed with error: 10061
+02:58:11 [Connection] connect() failed with error: 10061
+02:58:21 [Connection] connect() failed with error: 10061
+02:58:31 [Connection] connect() failed with error: 10061
+03:02:05 [SocketManager] Server started at port [44405]
+03:02:23 Could not connect to database
+03:02:24 [Connection] connect() failed with error: 10061
+03:02:35 [Connection] connect() failed with error: 10061
+03:02:45 [Connection] connect() failed with error: 10061
+03:02:55 [Connection] connect() failed with error: 10061
+03:03:05 [Connection] connect() failed with error: 10061
+03:03:15 [Connection] connect() failed with error: 10061
+03:03:25 [Connection] connect() failed with error: 10061
+03:03:35 [Connection] connect() failed with error: 10061
+03:03:45 [Connection] connect() failed with error: 10061
+03:03:55 [Connection] connect() failed with error: 10061
+03:04:05 [Connection] connect() failed with error: 10061
+03:04:15 [Connection] connect() failed with error: 10061
+03:04:25 [Connection] connect() failed with error: 10061
+03:04:35 [Connection] connect() failed with error: 10061
+03:04:45 [Connection] connect() failed with error: 10061
+03:04:55 [Connection] connect() failed with error: 10061
+03:05:05 [Connection] connect() failed with error: 10061
+03:05:15 [Connection] connect() failed with error: 10061
+03:05:25 [Connection] connect() failed with error: 10061
+03:05:35 [Connection] connect() failed with error: 10061
+03:05:45 [Connection] connect() failed with error: 10061
+03:05:55 [Connection] connect() failed with error: 10061
+03:06:05 [Connection] connect() failed with error: 10061
+03:06:15 [Connection] connect() failed with error: 10061
+03:06:25 [Connection] connect() failed with error: 10061
+03:06:35 [Connection] connect() failed with error: 10061
+03:06:45 [Connection] connect() failed with error: 10061
+03:06:55 [Connection] connect() failed with error: 10061
+03:07:05 [Connection] connect() failed with error: 10061
+03:14:29 [SocketManager] Server started at port [44405]
+03:14:47 Could not connect to database
+03:14:48 [Connection] connect() failed with error: 10061
+03:14:59 [Connection] connect() failed with error: 10061
+03:15:09 [Connection] connect() failed with error: 10061
+03:15:19 [Connection] connect() failed with error: 10061
+03:15:29 [Connection] connect() failed with error: 10061
+03:15:39 [Connection] connect() failed with error: 10061
+03:15:49 [Connection] connect() failed with error: 10061
+03:15:59 [Connection] connect() failed with error: 10061
+03:16:09 [Connection] connect() failed with error: 10061
+03:16:19 [Connection] connect() failed with error: 10061
+03:16:29 [Connection] connect() failed with error: 10061
+03:16:39 [Connection] connect() failed with error: 10061
+03:16:49 [Connection] connect() failed with error: 10061
+03:16:59 [Connection] connect() failed with error: 10061
+03:17:09 [Connection] connect() failed with error: 10061
+03:17:19 [Connection] connect() failed with error: 10061
+03:17:29 [Connection] connect() failed with error: 10061
+03:17:39 [Connection] connect() failed with error: 10061
+03:18:05 [SocketManager] Server started at port [44405]
+03:18:23 Could not connect to database
+03:18:24 [Connection] connect() failed with error: 10061
+03:19:10 [SocketManager] Server started at port [44405]
+03:19:28 Could not connect to database
+03:19:29 [Connection] connect() failed with error: 10061
+03:19:40 [Connection] connect() failed with error: 10061
+03:19:50 [Connection] connect() failed with error: 10061
+03:20:00 [Connection] connect() failed with error: 10061
+03:20:10 [Connection] connect() failed with error: 10061
+03:20:20 [Connection] connect() failed with error: 10061
+03:20:30 [Connection] connect() failed with error: 10061
+03:20:40 [Connection] connect() failed with error: 10061
+03:20:50 [Connection] connect() failed with error: 10061
+03:21:00 [Connection] connect() failed with error: 10061
+03:21:10 [Connection] connect() failed with error: 10061
+03:21:20 [Connection] connect() failed with error: 10061
+03:21:30 [Connection] connect() failed with error: 10061
+03:21:40 [Connection] connect() failed with error: 10061
+03:21:50 [Connection] connect() failed with error: 10061
+03:22:00 [Connection] connect() failed with error: 10061
+03:22:10 [Connection] connect() failed with error: 10061
+03:22:20 [Connection] connect() failed with error: 10061
+03:22:30 [Connection] connect() failed with error: 10061
+03:22:40 [Connection] connect() failed with error: 10061
+03:22:50 [Connection] connect() failed with error: 10061
+03:23:00 [Connection] connect() failed with error: 10061
+03:23:10 [Connection] connect() failed with error: 10061
+03:23:20 [Connection] connect() failed with error: 10061
+03:23:30 [Connection] connect() failed with error: 10061
+03:23:40 [Connection] connect() failed with error: 10061
+03:23:50 [Connection] connect() failed with error: 10061
+03:24:00 [Connection] connect() failed with error: 10061
+03:24:10 [Connection] connect() failed with error: 10061
+03:24:20 [Connection] connect() failed with error: 10061
+03:24:30 [Connection] connect() failed with error: 10061
+03:24:40 [Connection] connect() failed with error: 10061
+03:24:50 [Connection] connect() failed with error: 10061
+03:25:00 [Connection] connect() failed with error: 10061
+03:25:10 [Connection] connect() failed with error: 10061
+03:25:20 [Connection] connect() failed with error: 10061
+03:25:30 [Connection] connect() failed with error: 10061
+03:25:40 [Connection] connect() failed with error: 10061
+03:25:50 [Connection] connect() failed with error: 10061
+03:26:00 [Connection] connect() failed with error: 10061
+03:26:10 [Connection] connect() failed with error: 10061
+03:26:20 [Connection] connect() failed with error: 10061
+03:26:30 [Connection] connect() failed with error: 10061
+03:26:40 [Connection] connect() failed with error: 10061
+03:26:50 [Connection] connect() failed with error: 10061
+03:27:00 [Connection] connect() failed with error: 10061
+03:27:10 [Connection] connect() failed with error: 10061
+03:27:20 [Connection] connect() failed with error: 10061
+03:27:30 [Connection] connect() failed with error: 10061
+03:27:40 [Connection] connect() failed with error: 10061
+03:27:50 [Connection] connect() failed with error: 10061
+03:28:00 [Connection] connect() failed with error: 10061
+03:28:10 [Connection] connect() failed with error: 10061
+03:28:20 [Connection] connect() failed with error: 10061
+03:28:30 [Connection] connect() failed with error: 10061
+03:28:40 [Connection] connect() failed with error: 10061
+03:28:50 [Connection] connect() failed with error: 10061
+03:29:00 [Connection] connect() failed with error: 10061
+03:29:10 [Connection] connect() failed with error: 10061
+03:29:17 [SocketManager] Server started at port [44405]
+03:29:17 Could not connect to database
+03:29:18 [Connection] connect() failed with error: 10061
+03:29:29 [SocketManager] Server started at port [44405]
+03:29:29 Could not connect to database
+03:29:30 [Connection] connect() failed with error: 10061
+03:30:59 [SocketManager] Server started at port [44405]
+03:30:59 Could not connect to database
+03:31:00 [Connection] connect() failed with error: 10061
+03:31:34 [SocketManager] Server started at port [44405]
+03:31:34 Could not connect to database
+03:31:35 [Connection] connect() failed with error: 10061
+03:32:46 [SocketManager] Server started at port [44405]
+03:32:46 Could not connect to database
+03:32:47 [Connection] connect() failed with error: 10061
+03:32:58 [Connection] connect() failed with error: 10061
+03:33:08 [Connection] connect() failed with error: 10061
+03:33:18 [Connection] connect() failed with error: 10061
+03:33:28 [Connection] connect() failed with error: 10061
+03:33:38 [Connection] connect() failed with error: 10061
+03:33:48 [Connection] connect() failed with error: 10061
+03:33:58 [Connection] connect() failed with error: 10061
+03:34:08 [Connection] connect() failed with error: 10061
+03:34:18 [Connection] connect() failed with error: 10061
+03:34:28 [Connection] connect() failed with error: 10061
+03:34:38 [Connection] connect() failed with error: 10061
+03:34:48 [Connection] connect() failed with error: 10061
+03:34:52 [SocketManager] Server started at port [44405]
+03:34:52 Could not connect to database
+03:34:53 [Connection] connect() failed with error: 10061
+03:35:04 [Connection] connect() failed with error: 10061
+03:35:15 [SocketManager] Server started at port [44405]
+03:35:15 Could not connect to database
+03:35:16 [Connection] connect() failed with error: 10061
+03:35:27 [Connection] connect() failed with error: 10061
+03:35:37 [Connection] connect() failed with error: 10061
+03:35:47 [Connection] connect() failed with error: 10061
+03:35:58 [SocketManager] Server started at port [44406]
+03:35:58 Could not connect to database
+03:35:59 [Connection] connect() failed with error: 10061
+03:38:18 [SocketManager] Server started at port [44405]
+03:38:18 [ServerList] ServerList loaded successfully
+03:38:19 [Connection] connect() failed with error: 10061
+03:38:31 [Connection] connect() failed with error: 10061
+03:38:41 [Connection] connect() failed with error: 10061
+03:38:51 [Connection] connect() failed with error: 10061
+03:39:01 [Connection] connect() failed with error: 10061
+03:39:11 [Connection] connect() failed with error: 10061
+03:39:21 [Connection] connect() failed with error: 10061
+03:39:31 [Connection] connect() failed with error: 10061
+03:39:41 [Connection] connect() failed with error: 10061
+03:39:51 [Connection] connect() failed with error: 10061
+03:40:01 [Connection] connect() failed with error: 10061
+03:40:11 [Connection] connect() failed with error: 10061
+03:40:21 [Connection] connect() failed with error: 10061
+03:40:31 [Connection] connect() failed with error: 10061
+03:40:41 [Connection] connect() failed with error: 10061
+03:40:51 [Connection] connect() failed with error: 10061
+03:41:01 [Connection] connect() failed with error: 10061
+03:41:11 [Connection] connect() failed with error: 10061
+03:41:21 [Connection] connect() failed with error: 10061
+03:41:31 [Connection] connect() failed with error: 10061
+03:41:34 [ServerList] JoinServer online
+03:43:00 [ServerList] GameServer online (GameServer) (20)
+04:28:01 [SocketManager] Server started at port [44405]
+04:28:01 Could not connect to database
+04:28:02 [Connection] connect() failed with error: 10061
+04:28:08 [SocketManager] Server started at port [44405]
+04:28:08 Could not connect to database
+04:28:09 [Connection] connect() failed with error: 10061
+04:28:39 [SocketManager] Server started at port [44405]
+04:28:39 Could not connect to database
+04:28:40 [Connection] connect() failed with error: 10061
+04:29:00 [SocketManager] Server started at port [44405]
+04:29:00 Could not connect to database
+04:29:01 [Connection] connect() failed with error: 10061
+04:29:09 [SocketManager] Server started at port [44405]
+04:29:09 Could not connect to database
+04:29:10 [Connection] connect() failed with error: 10061
+04:30:12 [SocketManager] Server started at port [44405]
+04:30:12 Could not connect to database
+04:30:13 [Connection] connect() failed with error: 10061
+04:30:50 [SocketManager] Server started at port [44405]
+04:30:50 Could not connect to database
+04:30:51 [Connection] connect() failed with error: 10061
+04:31:13 [SocketManager] Server started at port [44405]
+04:31:13 Could not connect to database
+04:31:14 [Connection] connect() failed with error: 10061
+04:31:25 [Connection] connect() failed with error: 10061
+04:31:35 [Connection] connect() failed with error: 10061
+04:31:45 [Connection] connect() failed with error: 10061
+04:31:55 [Connection] connect() failed with error: 10061
+04:32:05 [Connection] connect() failed with error: 10061
+04:32:15 [Connection] connect() failed with error: 10061
+04:32:26 [Connection] connect() failed with error: 10061
+04:32:35 [Connection] connect() failed with error: 10061
+04:32:45 [Connection] connect() failed with error: 10061
+04:32:56 [Connection] connect() failed with error: 10061
+04:33:06 [Connection] connect() failed with error: 10061
+04:33:16 [Connection] connect() failed with error: 10061
+04:33:26 [Connection] connect() failed with error: 10061
+04:33:36 [Connection] connect() failed with error: 10061
+04:33:46 [Connection] connect() failed with error: 10061
+04:33:56 [Connection] connect() failed with error: 10061
+04:36:05 [SocketManager] Server started at port [44405]
+04:36:05 Could not connect to database
+04:36:06 [Connection] connect() failed with error: 10061
+15:47:37 [SocketManager] Server started at port [44405]
+15:47:37 Could not connect to database
+15:47:38 [Connection] connect() failed with error: 10061
+15:47:49 [Connection] connect() failed with error: 10061
+15:47:59 [Connection] connect() failed with error: 10061
+15:48:09 [Connection] connect() failed with error: 10061
+15:48:19 [Connection] connect() failed with error: 10061
+15:48:29 [Connection] connect() failed with error: 10061
+15:48:39 [Connection] connect() failed with error: 10061
+15:48:49 [Connection] connect() failed with error: 10061
+15:48:59 [Connection] connect() failed with error: 10061
+15:49:09 [Connection] connect() failed with error: 10061
+15:49:19 [Connection] connect() failed with error: 10061
+15:49:29 [Connection] connect() failed with error: 10061
+15:49:39 [Connection] connect() failed with error: 10061
+15:49:49 [Connection] connect() failed with error: 10061
+15:49:59 [Connection] connect() failed with error: 10061
+15:50:09 [Connection] connect() failed with error: 10061
+15:50:19 [Connection] connect() failed with error: 10061
+15:50:29 [Connection] connect() failed with error: 10061
+15:50:41 [SocketManager] Server started at port [44405]
+15:50:41 Could not connect to database
+15:50:42 [Connection] connect() failed with error: 10061
+15:50:53 [Connection] connect() failed with error: 10061
+15:51:03 [Connection] connect() failed with error: 10061
+15:51:13 [Connection] connect() failed with error: 10061
+15:51:23 [Connection] connect() failed with error: 10061
+15:51:31 [SocketManager] Server started at port [44405]
+15:51:31 Could not connect to database
+15:51:32 [Connection] connect() failed with error: 10061
+15:52:48 [SocketManager] Server started at port [44405]
+15:52:48 Could not connect to database
+15:52:49 [Connection] connect() failed with error: 10061
+15:53:00 [Connection] connect() failed with error: 10061
+15:53:11 [Connection] connect() failed with error: 10061
+15:56:40 [SocketManager] Server started at port [44405]
+15:56:40 Could not connect to database
+15:56:41 [Connection] connect() failed with error: 10061
+15:57:35 [SocketManager] Server started at port [44405]
+15:57:35 Could not connect to database
+15:57:36 [Connection] connect() failed with error: 10061
+15:58:14 [SocketManager] Server started at port [44405]
+15:58:14 Could not connect to database
+15:58:15 [Connection] connect() failed with error: 10061
+15:58:26 [Connection] connect() failed with error: 10061
+15:58:36 [Connection] connect() failed with error: 10061
+15:58:46 [Connection] connect() failed with error: 10061
+15:58:56 [Connection] connect() failed with error: 10061
+15:59:06 [Connection] connect() failed with error: 10061
+15:59:16 [Connection] connect() failed with error: 10061
+15:59:26 [Connection] connect() failed with error: 10061
+15:59:36 [Connection] connect() failed with error: 10061
+15:59:46 [Connection] connect() failed with error: 10061
+15:59:56 [Connection] connect() failed with error: 10061
+16:00:16 [SocketManager] Server started at port [44405]
+16:00:16 Could not connect to database
+16:00:17 [Connection] connect() failed with error: 10061
+16:00:57 [SocketManager] Server started at port [44405]
+16:00:57 [ServerList] ServerList loaded successfully
+16:00:58 [Connection] connect() failed with error: 10061
+16:01:09 [Connection] connect() failed with error: 10061
+16:01:19 [Connection] connect() failed with error: 10061
+16:01:50 [SocketManager] Server started at port [44405]
+16:01:50 [ServerList] ServerList loaded successfully
+16:01:51 [Connection] connect() failed with error: 10061
+16:02:02 [Connection] connect() failed with error: 10061
+16:02:12 [Connection] connect() failed with error: 10061
+16:02:22 [Connection] connect() failed with error: 10061
+16:02:32 [Connection] connect() failed with error: 10061
+16:02:43 [ServerList] JoinServer online
+16:03:09 [ServerList] GameServer online (GameServer) (20)
+16:25:45 [SocketManager] Server started at port [44405]
+16:25:45 [ServerList] ServerList loaded successfully
+16:25:46 [Connection] connect() failed with error: 10061
+16:25:57 [Connection] connect() failed with error: 10061
+16:26:07 [Connection] connect() failed with error: 10061
+16:26:13 [ServerList] JoinServer online
+16:26:34 [ServerList] GameServer online (GameServer) (20)
+16:26:47 [ServerList] GameServer online (GameServerCS) (19)
+16:27:02 [ServerList] GameServer offline (GameServerCS) (19)
+16:28:23 [ServerList] GameServer online (GameServerCS) (19)
+16:51:22 [SocketManager] Server started at port [44405]
+16:51:22 [ServerList] ServerList loaded successfully
+16:51:23 [Connection] connect() failed with error: 10061
+16:51:28 [ServerList] JoinServer online
+16:51:40 [ServerList] GameServer online (GameServer) (20)
+16:51:45 [ServerList] GameServer online (GameServerCS) (19)
+17:00:06 [SocketManager] Server started at port [44405]
+17:00:06 [ServerList] ServerList loaded successfully
+17:00:07 [Connection] connect() failed with error: 10061
+17:00:13 [ServerList] JoinServer online
+17:00:20 [ServerList] GameServer online (GameServer) (20)
+17:00:30 [ServerList] GameServer online (GameServerCS) (19)
+20:54:56 [SocketManager] Server started at port [44405]
+20:54:57 [ServerList] ServerList loaded successfully
+20:54:58 [Connection] connect() failed with error: 10061
+20:55:03 [ServerList] JoinServer online
+20:55:09 [ServerList] GameServer online (GameServer) (20)
+20:55:15 [ServerList] GameServer online (GameServerCS) (19)

@@ -1,0 +1,12 @@
+20:33:07 [SocketManager] Server started at port [55960]
+20:33:17 [MainProc][2][Expire Mission Info][Restore] 2021-07-01 AM09:30
+20:33:31 [ServerManager][0] AddServer (127.0.0.1)
+20:33:31 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+20:33:40 [ServerManager][1] AddServer (127.0.0.1)
+20:33:40 [ServerManager][1] ServerInfo (MuDevs) (55919) (19)
+21:57:49 [SocketManager] Server started at port [55960]
+21:57:59 [MainProc][2][Expire Mission Info][Restore] 2021-07-01 AM09:30
+21:58:13 [ServerManager][0] AddServer (127.0.0.1)
+21:58:13 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+21:58:22 [ServerManager][1] AddServer (127.0.0.1)
+21:58:22 [ServerManager][1] ServerInfo (MuDevs) (55919) (19)

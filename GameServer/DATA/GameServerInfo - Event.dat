@@ -8,7 +8,7 @@ ArcaBattleGuildMinUser = 1
 ;==================================================
 ; Blood Castle Event Settings
 ;==================================================
-BloodCastleEvent = 0
+BloodCastleEvent = 1
 BloodCastleMaxUser = 10
 BloodCastleNeedCloakToOpenInterface = 1
 
@@ -45,14 +45,14 @@ CastleSiegeMoveDarkHorseinCrown = 0
 ;==================================================
 ; Chaos Castle Event Settings
 ;==================================================
-ChaosCastleEvent = 0
+ChaosCastleEvent = 1
 ChaosCastleMinUser = 1
 ChaosCastleBlowUserRate = 50
 
 ;==================================================
 ; Chaos Castle Survival Event Settings
 ;==================================================
-ChaosCastleSurvivalEvent = 0
+ChaosCastleSurvivalEvent = 1
 ChaosCastleSurvivalMinLevel = 280
 ChaosCastleSurvivalMinUser = 1
 ChaosCastleSurvivalBlowUserRate = 50
@@ -71,7 +71,7 @@ CrywolfPenaltyExperience = 70
 ;==================================================
 ; Devil Square Event Settings
 ;==================================================
-DevilSquareEvent = 0
+DevilSquareEvent = 1
 DevilSquareMaxUser = 15
 
 ;==================================================

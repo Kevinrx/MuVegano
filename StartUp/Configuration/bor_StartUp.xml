@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Processes>
+  <Process Run="True" Delay="1000" Path="E:\MuVegano\ConnectServer\ConnectServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\MuVegano\DataServer\DataServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\MuVegano\JoinServer\JoinServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\MuVegano\GameServer\GameServer.exe" Parameters="" />
+  <Process Run="True" Delay="1000" Path="E:\MuVegano\GameServerCS\GameServer.exe" Parameters="" />
+</Processes>

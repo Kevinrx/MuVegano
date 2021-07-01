@@ -70,6 +70,19 @@
 		<Config Class="789" Range="4" BeginPosX="15" BeginPosY="49" EndPosX="27" EndPosY="61" Direction="-1" Quantity="8" Element="3" /> <!-- "Swamp Wizard" -->
 		<Config Class="789" Range="4" BeginPosX="19" BeginPosY="96" EndPosX="32" EndPosY="112" Direction="-1" Quantity="8" Element="3" /> <!-- "Swamp Wizard" -->
 		<Config Class="789" Range="4" BeginPosX="46" BeginPosY="54" EndPosX="58" EndPosY="67" Direction="-1" Quantity="8" Element="3" /> <!-- "Swamp Wizard" -->
+		
+		<Config Class="787" Range="4" BeginPosX="47" BeginPosY="105" EndPosX="45" EndPosY="107" Direction="-1" Quantity="20" Element="2" /> <!-- "Wooden Beast" -->
+		<Config Class="788" Range="4" BeginPosX="47" BeginPosY="105" EndPosX="45" EndPosY="107" Direction="-1" Quantity="20" Element="5" /> <!-- "Swamp Wizard" -->
+		
+		<Config Class="787" Range="4" BeginPosX="42" BeginPosY="85" EndPosX="43" EndPosY="106" Direction="-1" Quantity="20" Element="2" /> <!-- "Wooden Beast" -->
+		<Config Class="788" Range="4" BeginPosX="47" BeginPosY="85" EndPosX="43" EndPosY="106" Direction="-1" Quantity="20" Element="5" /> <!-- "Swamp Wizard" -->
+		
+		<Config Class="787" Range="4" BeginPosX="240" BeginPosY="116" EndPosX="246" EndPosY="116" Direction="-1" Quantity="20" Element="2" /> <!-- "Wooden Beast" -->
+		<Config Class="788" Range="4" BeginPosX="242" BeginPosY="115" EndPosX="245" EndPosY="116" Direction="-1" Quantity="20" Element="5" /> <!-- "Swamp Wizard" -->
+
+		<Config Class="787" Range="4" BeginPosX="72" BeginPosY="192" EndPosX="72" EndPosY="192" Direction="-1" Quantity="20" Element="2" /> <!-- "Wooden Beast" -->
+		<Config Class="788" Range="4" BeginPosX="73" BeginPosY="193" EndPosX="73" EndPosY="193" Direction="-1" Quantity="20" Element="5" /> <!-- "Swamp Wizard" -->
+		
 	</SPOT>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<MONSTER>

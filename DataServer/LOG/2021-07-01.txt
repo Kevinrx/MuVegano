@@ -1,0 +1,13 @@
+09:30:00 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:0][Count:1][Index:2]
+09:30:00 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:1][Count:2][Index:0]
+09:30:00 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:1][Count:2][Index:4]
+09:30:00 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:2][Count:1][Index:3]
+09:30:00 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:3][Count:2][Index:2]
+09:30:00 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:3][Count:2][Index:4]
+09:30:00 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:4][Count:1][Index:0]
+09:30:00 [MainProc] MissionInfo [Level:0][MissionInx1:2][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+09:30:00 [MainProc] MissionInfo [Level:1][MissionInx1:0][MissionInx2:4][MissionInx3:-1][MissionInx4:-1]
+09:30:00 [MainProc] MissionInfo [Level:2][MissionInx1:3][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+09:30:00 [MainProc] MissionInfo [Level:3][MissionInx1:2][MissionInx2:4][MissionInx3:-1][MissionInx4:-1]
+09:30:00 [MainProc] MissionInfo [Level:4][MissionInx1:0][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+09:30:00 [MainProc][3][Expire Mission Info][ReInfo] 2021-07-08 AM09:30

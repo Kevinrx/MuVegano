@@ -18,7 +18,7 @@ IsArcaWarServer = 0
 IsMarketServer = 0
 IsBattleCoreServer = 0
 BattleCoreNotice = 0
-IsInstanceServer = 0
+IsInstanceServer = 1
 
 ;==================================================
 ; DB Settings
@@ -66,8 +66,8 @@ MaxItemOption = 7
 MaxIpConnection = 10
 PersonalCodeCheck = 0
 SetItemAcceptHarmonySwitch = 0
-HappyNewYears = 0
-MerryChristmas = 0
+HappyNewYears = 1
+MerryChristmas = 1
 ConvertsSimpleModeStatus = 1
 
 ;==================================================
@@ -82,7 +82,7 @@ UserAnnouncementSwitch = 1
 ;==================================================
 MonsterLifeRate = 100
 MonsterHealthBarSwitch = 1
-MonsterReturnTime = 4
+MonsterReturnTime = 3
 
 ;==================================================
 ; PK Settings
@@ -145,14 +145,14 @@ ElfBufferDefenseConstB = 3
 ;==================================================
 ; Experience Settings
 ;==================================================
-AddExperienceRate_AL0 = 10
-AddExperienceRate_AL1 = 100
-AddExperienceRate_AL2 = 100
-AddExperienceRate_AL3 = 100
+AddExperienceRate_AL0 = 2000
+AddExperienceRate_AL1 = 2000
+AddExperienceRate_AL2 = 2000
+AddExperienceRate_AL3 = 2000
 AddMasterExperienceRate_AL0 = 400
-AddMasterExperienceRate_AL1 = 10
-AddMasterExperienceRate_AL2 = 10
-AddMasterExperienceRate_AL3 = 10
+AddMasterExperienceRate_AL1 = 400
+AddMasterExperienceRate_AL2 = 400
+AddMasterExperienceRate_AL3 = 400
 MinMasterExperienceMonsterLevel_AL0 = 95
 MinMasterExperienceMonsterLevel_AL1 = 95
 MinMasterExperienceMonsterLevel_AL2 = 95
@@ -174,19 +174,19 @@ AddQuestExperienceRate_AL3 = 100
 ; Item Drop Settings
 ;==================================================
 ItemDropTime = 30
-ItemDropRate_AL0 = 40
-ItemDropRate_AL1 = 40
-ItemDropRate_AL2 = 40
-ItemDropRate_AL3 = 40
+ItemDropRate_AL0 = 90
+ItemDropRate_AL1 = 60
+ItemDropRate_AL2 = 60
+ItemDropRate_AL3 = 60
 
 ;==================================================
 ; Money Drop Settings
 ;==================================================
-MoneyDropTime = 300
-MoneyAmountDropRate_AL0 = 500000
-MoneyAmountDropRate_AL1 = 500000
-MoneyAmountDropRate_AL2 = 500000
-MoneyAmountDropRate_AL3 = 500000
+MoneyDropTime = 30
+MoneyAmountDropRate_AL0 = 25
+MoneyAmountDropRate_AL1 = 25
+MoneyAmountDropRate_AL2 = 25
+MoneyAmountDropRate_AL3 = 25
 
 ;==================================================
 ; Item Durability Settings
@@ -224,17 +224,17 @@ MaxStatPoint_AL0 = 65000
 MaxStatPoint_AL1 = 65000
 MaxStatPoint_AL2 = 65000
 MaxStatPoint_AL3 = 65000
-DWLevelUpPoint = 5
-DKLevelUpPoint = 5
-FELevelUpPoint = 5
-MGLevelUpPoint = 7
-DLLevelUpPoint = 7
-SULevelUpPoint = 5
-RFLevelUpPoint = 7
-GLLevelUpPoint = 7
-RWLevelUpPoint = 5
-SLLevelUpPoint = 5
-GCLevelUpPoint = 5
+DWLevelUpPoint = 10
+DKLevelUpPoint = 10
+FELevelUpPoint = 10
+MGLevelUpPoint = 14
+DLLevelUpPoint = 14
+SULevelUpPoint = 10
+RFLevelUpPoint = 14
+GLLevelUpPoint = 14
+RWLevelUpPoint = 10
+SLLevelUpPoint = 10
+GCLevelUpPoint = 10
 PlusStatPoint = 1
 
 ;==================================================
@@ -409,15 +409,15 @@ ScoreBoardSwitch = 1
 ;==================================================
 PartyReconnectTime = 300
 PartyGeneralExperience1 = 100
-PartyGeneralExperience2 = 80
-PartyGeneralExperience3 = 60
-PartyGeneralExperience4 = 50
-PartyGeneralExperience5 = 45
+PartyGeneralExperience2 = 110
+PartyGeneralExperience3 = 120
+PartyGeneralExperience4 = 130
+PartyGeneralExperience5 = 140
 PartySpecialExperience1 = 100
-PartySpecialExperience2 = 80
-PartySpecialExperience3 = 75
-PartySpecialExperience4 = 65
-PartySpecialExperience5 = 60
+PartySpecialExperience2 = 110
+PartySpecialExperience3 = 120
+PartySpecialExperience4 = 130
+PartySpecialExperience5 = 140
 PartyMaxLevelDiference = 150
 
 ;==================================================
@@ -456,18 +456,18 @@ TransformationRing6 = 41
 ;==================================================
 ; Jewel Settings
 ;==================================================
-SoulSuccessRate_AL0 = 50
-SoulSuccessRate_AL1 = 50
-SoulSuccessRate_AL2 = 50
-SoulSuccessRate_AL3 = 50
-LifeSuccessRate_AL0 = 50
-LifeSuccessRate_AL1 = 50
-LifeSuccessRate_AL2 = 50
-LifeSuccessRate_AL3 = 50
-HarmonySuccessRate_AL0 = 50
-HarmonySuccessRate_AL1 = 50
-HarmonySuccessRate_AL2 = 50
-HarmonySuccessRate_AL3 = 50
+SoulSuccessRate_AL0 = 70
+SoulSuccessRate_AL1 = 70
+SoulSuccessRate_AL2 = 70
+SoulSuccessRate_AL3 = 70
+LifeSuccessRate_AL0 = 80
+LifeSuccessRate_AL1 = 80
+LifeSuccessRate_AL2 = 80
+LifeSuccessRate_AL3 = 80
+HarmonySuccessRate_AL0 = 70
+HarmonySuccessRate_AL1 = 70
+HarmonySuccessRate_AL2 = 70
+HarmonySuccessRate_AL3 = 70
 SmeltStoneSuccessRate1_AL0 = 50
 SmeltStoneSuccessRate1_AL1 = 50
 SmeltStoneSuccessRate1_AL2 = 50
@@ -476,14 +476,14 @@ SmeltStoneSuccessRate2_AL0 = 70
 SmeltStoneSuccessRate2_AL1 = 70
 SmeltStoneSuccessRate2_AL2 = 70
 SmeltStoneSuccessRate2_AL3 = 70
-AddLuckSuccessRate1_AL0 = 25
-AddLuckSuccessRate1_AL1 = 25
-AddLuckSuccessRate1_AL2 = 25
-AddLuckSuccessRate1_AL3 = 25
-AddLuckSuccessRate2_AL0 = 20
-AddLuckSuccessRate2_AL1 = 20
-AddLuckSuccessRate2_AL2 = 20
-AddLuckSuccessRate2_AL3 = 20
+AddLuckSuccessRate1_AL0 = 15
+AddLuckSuccessRate1_AL1 = 15
+AddLuckSuccessRate1_AL2 = 15
+AddLuckSuccessRate1_AL3 = 15
+AddLuckSuccessRate2_AL0 = 10
+AddLuckSuccessRate2_AL1 = 10
+AddLuckSuccessRate2_AL2 = 10
+AddLuckSuccessRate2_AL3 = 10
 
 ;==================================================
 ; Fruit Settings

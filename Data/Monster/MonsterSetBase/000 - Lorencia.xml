@@ -31,6 +31,7 @@
 		<Config Class="568" Range="0" PositionX="125" PositionY="125" Direction="3" Element="0" /> <!-- "Jerint the Assistant" -->
 		<Config Class="492" Range="0" PositionX="141" PositionY="134" Direction="3" Element="0" /> <!-- "Moss" -->
 		<Config Class="406" Range="0" PositionX="142" PositionY="135" Direction="2" Element="0" /> <!-- "Trainer" -->
+		<Config Class="407" Range="0" PositionX="140" PositionY="125" Direction="1" Element="0" /> <!-- "Werewolf Quarel" -->
 	</NPC>
 <!-- ================================================================================================================================================================================================================================================================================= -->
 	<SPOT>
@@ -42,9 +43,9 @@
 		<Config Class="14" Range="30" BeginPosX="95" BeginPosY="168" EndPosX="175" EndPosY="244" Direction="-1" Quantity="15" Element="0" /> <!-- "Skeleton" -->
 		<Config Class="1" Range="30" BeginPosX="8" BeginPosY="11" EndPosX="94" EndPosY="244" Direction="-1" Quantity="45" Element="0" /> <!-- "Hound" -->
 		<Config Class="4" Range="30" BeginPosX="8" BeginPosY="11" EndPosX="94" EndPosY="244" Direction="-1" Quantity="45" Element="0" /> <!-- "Elite Bull Fighter" -->
-		<Config Class="7" Range="30" BeginPosX="8" BeginPosY="11" EndPosX="60" EndPosY="80" Direction="-1" Quantity="15" Element="0" /> <!-- "Giant" -->
+		<Config Class="7" Range="30" BeginPosX="8" BeginPosY="11" EndPosX="60" EndPosY="80" Direction="-1" Quantity="40" Element="0" /> <!-- "Giant" -->
 
-		<Config Class="7" Range="10" BeginPosX="173" BeginPosY="128" EndPosX="173" EndPosY="129" Direction="-1" Quantity="70" Element="0" /> <!-- "Spider" -->
+		<Config Class="7" Range="10" BeginPosX="184" BeginPosY="126" EndPosX="186" EndPosY="123" Direction="-1" Quantity="20" Element="0" /> <!-- "Giant" -->
 
 		<Config Class="3" Range="10" BeginPosX="193" BeginPosY="158" EndPosX="194" EndPosY="159" Direction="-1" Quantity="10" Element="0" /> <!-- "Spider" -->
 	</SPOT>
